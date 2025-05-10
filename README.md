@@ -12,3 +12,4 @@ This project combines two key components:
 2. **Regression** – Predicts the future salary of employees who are likely to stay.
 3. **Expected Financial Loss** – Calculates the loss due to attrition using the formula:
 
+Expected Loss = P(Attrition) × Predicted Future Salary
