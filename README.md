@@ -13,3 +13,7 @@ This project combines two key components:
 3. **Expected Financial Loss** – Calculates the loss due to attrition using the formula:
 
 Expected Loss = P(Attrition) × Predicted Future Salary
+
+## 📚 Dataset
+
+This project uses the [IBM HR Analytics Attrition & Performance dataset](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset) available on Kaggle.
