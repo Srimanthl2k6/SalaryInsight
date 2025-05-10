@@ -1,0 +1,12 @@
+feature,importance
+LogMonthlyIncome,0.1547311
+JobLevel,0.0026009425
+YearsAtCompany,0.0
+PerformanceRating,0.0025059234
+Income_Level,0.007980494
+Performance_Tenure,0.0
+poly_0,0.122652784
+poly_1,0.0
+poly_2,0.7095288
+poly_3,0.0
+poly_4,0.0

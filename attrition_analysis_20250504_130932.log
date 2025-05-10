@@ -1,0 +1,1220 @@
+2025-05-04 13:09:32,407 - INFO - Loading dataset from c:\Users\Srimanth L\OneDrive\Desktop\C Programs\WA_Fn-UseC_-HR-Employee-Attrition.csv
+2025-05-04 13:09:32,430 - INFO - Dataset loaded successfully with 1470 rows and 35 columns
+2025-05-04 13:09:32,451 - INFO - Preprocessing data
+2025-05-04 13:09:32,452 - INFO - Encoded categorical column: BusinessTravel
+2025-05-04 13:09:32,452 - INFO - Encoded categorical column: Department
+2025-05-04 13:09:32,453 - INFO - Encoded categorical column: EducationField
+2025-05-04 13:09:32,453 - INFO - Encoded categorical column: Gender
+2025-05-04 13:09:32,454 - INFO - Encoded categorical column: JobRole
+2025-05-04 13:09:32,455 - INFO - Encoded categorical column: MaritalStatus
+2025-05-04 13:09:32,455 - INFO - Encoded categorical column: Over18
+2025-05-04 13:09:32,456 - INFO - Encoded categorical column: OverTime
+2025-05-04 13:09:32,461 - INFO - Imputed missing values using KNNImputer
+2025-05-04 13:09:32,484 - INFO - Performing feature engineering
+2025-05-04 13:09:32,486 - INFO - Created features: Satisfaction_Weighted_Salary, YearsSincePromotion
+2025-05-04 13:09:32,505 - INFO - Simulating future salaries
+2025-05-04 13:09:32,507 - INFO - Calculated future salaries with increments
+2025-05-04 13:11:41,706 - INFO - Loading dataset from c:\Users\Srimanth L\OneDrive\Desktop\C Programs\WA_Fn-UseC_-HR-Employee-Attrition.csv
+2025-05-04 13:11:41,712 - INFO - Dataset loaded successfully with 1470 rows and 35 columns
+2025-05-04 13:11:41,728 - INFO - Preprocessing data
+2025-05-04 13:11:41,729 - INFO - Encoded categorical column: BusinessTravel
+2025-05-04 13:11:41,729 - INFO - Encoded categorical column: Department
+2025-05-04 13:11:41,730 - INFO - Encoded categorical column: EducationField
+2025-05-04 13:11:41,730 - INFO - Encoded categorical column: Gender
+2025-05-04 13:11:41,731 - INFO - Encoded categorical column: JobRole
+2025-05-04 13:11:41,731 - INFO - Encoded categorical column: MaritalStatus
+2025-05-04 13:11:41,732 - INFO - Encoded categorical column: Over18
+2025-05-04 13:11:41,732 - INFO - Encoded categorical column: OverTime
+2025-05-04 13:11:41,737 - INFO - Imputed missing values using KNNImputer
+2025-05-04 13:11:41,757 - INFO - Performing feature engineering
+2025-05-04 13:11:41,759 - INFO - Created features: Satisfaction_Weighted_Salary, YearsSincePromotion
+2025-05-04 13:11:41,780 - INFO - Simulating future salaries
+2025-05-04 13:11:41,781 - INFO - Calculated future salaries with increments
+2025-05-04 13:16:40,002 - INFO - Loading dataset from c:\Users\Srimanth L\OneDrive\Desktop\C Programs\WA_Fn-UseC_-HR-Employee-Attrition.csv
+2025-05-04 13:16:40,009 - INFO - Dataset loaded successfully with 1470 rows and 35 columns
+2025-05-04 13:16:40,024 - INFO - Preprocessing data
+2025-05-04 13:16:40,025 - INFO - Encoded categorical column: BusinessTravel
+2025-05-04 13:16:40,025 - INFO - Encoded categorical column: Department
+2025-05-04 13:16:40,025 - INFO - Encoded categorical column: EducationField
+2025-05-04 13:16:40,026 - INFO - Encoded categorical column: Gender
+2025-05-04 13:16:40,026 - INFO - Encoded categorical column: JobRole
+2025-05-04 13:16:40,027 - INFO - Encoded categorical column: MaritalStatus
+2025-05-04 13:16:40,027 - INFO - Encoded categorical column: Over18
+2025-05-04 13:16:40,027 - INFO - Encoded categorical column: OverTime
+2025-05-04 13:16:40,033 - INFO - Imputed missing values using KNNImputer
+2025-05-04 13:16:40,052 - INFO - Performing feature engineering
+2025-05-04 13:16:40,053 - INFO - Created features: Satisfaction_Weighted_Salary, YearsSincePromotion
+2025-05-04 13:16:40,073 - INFO - Simulating future salaries
+2025-05-04 13:16:40,074 - INFO - Calculated future salaries with increments
+2025-05-04 13:16:40,119 - INFO - Starting attrition classification
+2025-05-04 13:16:40,124 - INFO - Split data: 1176 train, 294 test samples
+2025-05-04 13:18:06,210 - INFO - Loading dataset from c:\Users\Srimanth L\OneDrive\Desktop\C Programs\WA_Fn-UseC_-HR-Employee-Attrition.csv
+2025-05-04 13:18:06,216 - INFO - Dataset loaded successfully with 1470 rows and 35 columns
+2025-05-04 13:18:06,231 - INFO - Preprocessing data
+2025-05-04 13:18:06,232 - INFO - Encoded categorical column: BusinessTravel
+2025-05-04 13:18:06,233 - INFO - Encoded categorical column: Department
+2025-05-04 13:18:06,233 - INFO - Encoded categorical column: EducationField
+2025-05-04 13:18:06,233 - INFO - Encoded categorical column: Gender
+2025-05-04 13:18:06,234 - INFO - Encoded categorical column: JobRole
+2025-05-04 13:18:06,234 - INFO - Encoded categorical column: MaritalStatus
+2025-05-04 13:18:06,235 - INFO - Encoded categorical column: Over18
+2025-05-04 13:18:06,235 - INFO - Encoded categorical column: OverTime
+2025-05-04 13:18:06,241 - INFO - Imputed missing values using KNNImputer
+2025-05-04 13:18:06,260 - INFO - Performing feature engineering
+2025-05-04 13:18:06,261 - INFO - Created features: Satisfaction_Weighted_Salary, YearsSincePromotion
+2025-05-04 13:18:06,282 - INFO - Simulating future salaries
+2025-05-04 13:18:06,283 - INFO - Calculated future salaries with increments
+2025-05-04 13:18:06,333 - INFO - Starting attrition classification
+2025-05-04 13:18:06,338 - INFO - Split data: 1176 train, 294 test samples
+2025-05-04 13:18:09,974 - INFO - Best hyperparameters: {'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}
+2025-05-04 13:18:10,592 - INFO - Cross-validation F1 scores: [0.51351351 0.4        0.42253521 0.44155844 0.45070423] (mean: 0.446)
+2025-05-04 13:18:10,594 - INFO - Classification Metrics:
+2025-05-04 13:18:10,596 - INFO - F1 Score: 0.500
+2025-05-04 13:18:10,598 - INFO - Precision: 0.714
+2025-05-04 13:18:10,599 - INFO - Recall: 0.385
+2025-05-04 13:18:10,600 - INFO - AUC-ROC: 0.770
+2025-05-04 13:18:10,601 - INFO - Top 10 features by importance: ['OverTime', 'YearsAtCompany', 'YearsInCurrentRole', 'YearsSinceLastPromotion', 'NumCompaniesWorked', 'YearsWithCurrManager', 'MaritalStatus', 'JobLevel', 'JobSatisfaction', 'TotalWorkingYears']
+2025-05-04 13:18:10,602 - INFO - Visualizing feature importance
+2025-05-04 13:20:15,592 - INFO - Loading dataset from c:\Users\Srimanth L\OneDrive\Desktop\C Programs\WA_Fn-UseC_-HR-Employee-Attrition.csv
+2025-05-04 13:20:15,598 - INFO - Dataset loaded successfully with 1470 rows and 35 columns
+2025-05-04 13:20:15,613 - INFO - Preprocessing data
+2025-05-04 13:20:15,614 - INFO - Encoded categorical column: BusinessTravel
+2025-05-04 13:20:15,615 - INFO - Encoded categorical column: Department
+2025-05-04 13:20:15,615 - INFO - Encoded categorical column: EducationField
+2025-05-04 13:20:15,615 - INFO - Encoded categorical column: Gender
+2025-05-04 13:20:15,616 - INFO - Encoded categorical column: JobRole
+2025-05-04 13:20:15,616 - INFO - Encoded categorical column: MaritalStatus
+2025-05-04 13:20:15,616 - INFO - Encoded categorical column: Over18
+2025-05-04 13:20:15,617 - INFO - Encoded categorical column: OverTime
+2025-05-04 13:20:15,622 - INFO - Imputed missing values using KNNImputer
+2025-05-04 13:20:15,641 - INFO - Performing feature engineering
+2025-05-04 13:20:15,643 - INFO - Created features: Satisfaction_Weighted_Salary, YearsSincePromotion
+2025-05-04 13:20:15,662 - INFO - Simulating future salaries
+2025-05-04 13:20:15,664 - INFO - Calculated future salaries with increments
+2025-05-04 13:20:15,707 - INFO - Starting attrition classification
+2025-05-04 13:20:15,712 - INFO - Split data: 1176 train, 294 test samples
+2025-05-04 13:20:16,067 - INFO - Best hyperparameters: {'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}
+2025-05-04 13:20:16,646 - INFO - Cross-validation F1 scores: [0.51351351 0.4        0.42253521 0.44155844 0.45070423] (mean: 0.446)
+2025-05-04 13:20:16,647 - INFO - Classification Metrics:
+2025-05-04 13:20:16,648 - INFO - F1 Score: 0.500
+2025-05-04 13:20:16,650 - INFO - Precision: 0.714
+2025-05-04 13:20:16,651 - INFO - Recall: 0.385
+2025-05-04 13:20:16,653 - INFO - AUC-ROC: 0.770
+2025-05-04 13:20:16,653 - INFO - Top 10 features by importance: ['OverTime', 'YearsAtCompany', 'YearsInCurrentRole', 'YearsSinceLastPromotion', 'NumCompaniesWorked', 'YearsWithCurrManager', 'MaritalStatus', 'JobLevel', 'JobSatisfaction', 'TotalWorkingYears']
+2025-05-04 13:20:16,654 - INFO - Visualizing feature importance
+2025-05-04 13:20:16,979 - INFO - Feature importance plot saved to feature_importance_plot.png
+2025-05-04 13:20:17,013 - INFO - Results saved to attrition_analysis_results_20250504_132016.csv
+2025-05-04 13:24:47,871 - INFO - Loading dataset from c:\Users\Srimanth L\OneDrive\Desktop\C Programs\WA_Fn-UseC_-HR-Employee-Attrition.csv
+2025-05-04 13:24:47,878 - INFO - Dataset loaded successfully with 1470 rows and 35 columns
+2025-05-04 13:24:47,892 - INFO - Preprocessing data
+2025-05-04 13:24:47,894 - INFO - Encoded categorical column: BusinessTravel
+2025-05-04 13:24:47,894 - INFO - Encoded categorical column: Department
+2025-05-04 13:24:47,894 - INFO - Encoded categorical column: EducationField
+2025-05-04 13:24:47,895 - INFO - Encoded categorical column: Gender
+2025-05-04 13:24:47,895 - INFO - Encoded categorical column: JobRole
+2025-05-04 13:24:47,896 - INFO - Encoded categorical column: MaritalStatus
+2025-05-04 13:24:47,896 - INFO - Encoded categorical column: Over18
+2025-05-04 13:24:47,896 - INFO - Encoded categorical column: OverTime
+2025-05-04 13:24:47,901 - INFO - Imputed missing values using KNNImputer
+2025-05-04 13:24:47,921 - INFO - Performing feature engineering
+2025-05-04 13:24:47,922 - INFO - Created features: Satisfaction_Weighted_Salary, YearsSincePromotion
+2025-05-04 13:24:47,942 - INFO - Simulating future salaries
+2025-05-04 13:24:47,944 - INFO - Calculated future salaries with increments
+2025-05-04 13:24:47,998 - INFO - Starting attrition classification
+2025-05-04 13:24:48,003 - INFO - Split data: 1176 train, 294 test samples
+2025-05-04 13:24:48,354 - INFO - Best hyperparameters: {'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}
+2025-05-04 13:24:48,964 - INFO - Cross-validation F1 scores: [0.51351351 0.4        0.42253521 0.44155844 0.45070423] (mean: 0.446)
+2025-05-04 13:24:48,964 - INFO - Classification Metrics:
+2025-05-04 13:24:48,966 - INFO - F1 Score: 0.500
+2025-05-04 13:24:48,968 - INFO - Precision: 0.714
+2025-05-04 13:24:48,969 - INFO - Recall: 0.385
+2025-05-04 13:24:48,970 - INFO - AUC-ROC: 0.770
+2025-05-04 13:24:48,971 - INFO - Top 10 features by importance: ['OverTime', 'YearsAtCompany', 'YearsInCurrentRole', 'YearsSinceLastPromotion', 'NumCompaniesWorked', 'YearsWithCurrManager', 'MaritalStatus', 'JobLevel', 'JobSatisfaction', 'TotalWorkingYears']
+2025-05-04 13:24:48,972 - INFO - Visualizing feature importance
+2025-05-04 13:24:49,196 - INFO - Feature importance plot saved to feature_importance_plot.png
+2025-05-04 13:24:49,232 - INFO - Results saved to attrition_analysis_results_20250504_132449.csv
+2025-05-04 13:31:51,448 - INFO - Loading dataset from c:\Users\Srimanth L\OneDrive\Desktop\C Programs\WA_Fn-UseC_-HR-Employee-Attrition.csv
+2025-05-04 13:31:51,456 - INFO - Dataset loaded successfully with 1470 rows and 35 columns
+2025-05-04 13:31:51,472 - INFO - Preprocessing data
+2025-05-04 13:31:51,473 - INFO - Encoded categorical column: BusinessTravel
+2025-05-04 13:31:51,473 - INFO - Encoded categorical column: Department
+2025-05-04 13:31:51,474 - INFO - Encoded categorical column: EducationField
+2025-05-04 13:31:51,474 - INFO - Encoded categorical column: Gender
+2025-05-04 13:31:51,474 - INFO - Encoded categorical column: JobRole
+2025-05-04 13:31:51,475 - INFO - Encoded categorical column: MaritalStatus
+2025-05-04 13:31:51,475 - INFO - Encoded categorical column: Over18
+2025-05-04 13:31:51,475 - INFO - Encoded categorical column: OverTime
+2025-05-04 13:31:51,481 - INFO - Imputed missing values using KNNImputer
+2025-05-04 13:31:51,502 - INFO - Performing feature engineering
+2025-05-04 13:31:51,504 - INFO - Created features: Satisfaction_Weighted_Salary, YearsSincePromotion
+2025-05-04 13:31:51,524 - INFO - Simulating future salaries
+2025-05-04 13:31:51,526 - INFO - Calculated future salaries with increments
+2025-05-04 13:31:51,571 - INFO - Starting attrition classification
+2025-05-04 13:31:51,575 - INFO - Split data: 1176 train, 294 test samples
+2025-05-04 13:31:53,661 - INFO - Best hyperparameters: {'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}
+2025-05-04 13:31:54,281 - INFO - Cross-validation F1 scores: [0.51351351 0.4        0.42253521 0.44155844 0.45070423] (mean: 0.446)
+2025-05-04 13:31:54,282 - INFO - Classification Metrics:
+2025-05-04 13:31:54,283 - INFO - F1 Score: 0.500
+2025-05-04 13:31:54,285 - INFO - Precision: 0.714
+2025-05-04 13:31:54,287 - INFO - Recall: 0.385
+2025-05-04 13:31:54,288 - INFO - AUC-ROC: 0.770
+2025-05-04 13:31:54,289 - INFO - Top 10 features by importance: ['OverTime', 'YearsAtCompany', 'YearsInCurrentRole', 'YearsSinceLastPromotion', 'NumCompaniesWorked', 'YearsWithCurrManager', 'MaritalStatus', 'JobLevel', 'JobSatisfaction', 'TotalWorkingYears']
+2025-05-04 13:31:54,290 - INFO - Visualizing feature importance
+2025-05-04 13:31:54,537 - INFO - Feature importance plot saved to feature_importance_plot.png
+2025-05-04 13:31:54,544 - INFO - Starting future salary regression
+2025-05-04 13:31:54,549 - INFO - Split regression data: 1021 train, 256 test samples
+2025-05-04 13:32:19,266 - INFO - Best regression hyperparameters: {'max_depth': 3, 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 100}
+2025-05-04 13:32:19,918 - INFO - Cross-validation R2 scores: [0.9341942  0.92144331 0.93822294 0.94107675 0.91487301] (mean: 0.930)
+2025-05-04 13:32:19,925 - INFO - Regression Metrics:
+2025-05-04 13:32:19,926 - INFO - R^2 Score: 0.917
+2025-05-04 13:32:19,926 - INFO - RMSE: 1396.807
+2025-05-04 13:32:19,931 - INFO - Top 5 important features for salary prediction:
+2025-05-04 13:32:19,932 - INFO - 
+                   feature  importance
+7                 JobLevel    0.991368
+9        TotalWorkingYears    0.007918
+2       YearsInCurrentRole    0.000367
+5     YearsWithCurrManager    0.000084
+3  YearsSinceLastPromotion    0.000066
+2025-05-04 13:32:33,729 - INFO - Results saved to attrition_analysis_results_20250504_133233.csv
+2025-05-04 13:32:33,750 - INFO - Models, scalers, and feature importance saved with timestamp 20250504_133233
+2025-05-04 13:36:07,744 - INFO - Loading dataset from c:\Users\Srimanth L\OneDrive\Desktop\C Programs\WA_Fn-UseC_-HR-Employee-Attrition.csv
+2025-05-04 13:36:07,751 - INFO - Dataset loaded successfully with 1470 rows and 35 columns
+2025-05-04 13:36:07,765 - INFO - Preprocessing data
+2025-05-04 13:36:07,766 - INFO - Encoded categorical column: BusinessTravel
+2025-05-04 13:36:07,767 - INFO - Encoded categorical column: Department
+2025-05-04 13:36:07,767 - INFO - Encoded categorical column: EducationField
+2025-05-04 13:36:07,767 - INFO - Encoded categorical column: Gender
+2025-05-04 13:36:07,768 - INFO - Encoded categorical column: JobRole
+2025-05-04 13:36:07,768 - INFO - Encoded categorical column: MaritalStatus
+2025-05-04 13:36:07,769 - INFO - Encoded categorical column: Over18
+2025-05-04 13:36:07,769 - INFO - Encoded categorical column: OverTime
+2025-05-04 13:36:07,774 - INFO - Imputed missing values using KNNImputer
+2025-05-04 13:36:07,794 - INFO - Performing feature engineering
+2025-05-04 13:36:07,796 - INFO - Created features: Satisfaction_Weighted_Salary, YearsSincePromotion
+2025-05-04 13:36:07,825 - INFO - Simulating future salaries
+2025-05-04 13:36:07,827 - INFO - Calculated future salaries with increments
+2025-05-04 13:36:07,876 - INFO - Starting attrition classification
+2025-05-04 13:36:07,881 - INFO - Split data: 1176 train, 294 test samples
+2025-05-04 13:36:08,205 - INFO - Best hyperparameters: {'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}
+2025-05-04 13:36:08,796 - INFO - Cross-validation F1 scores: [0.51351351 0.4        0.42253521 0.44155844 0.45070423] (mean: 0.446)
+2025-05-04 13:36:08,797 - INFO - Classification Metrics:
+2025-05-04 13:36:08,798 - INFO - F1 Score: 0.500
+2025-05-04 13:36:08,800 - INFO - Precision: 0.714
+2025-05-04 13:36:08,801 - INFO - Recall: 0.385
+2025-05-04 13:36:08,803 - INFO - AUC-ROC: 0.770
+2025-05-04 13:36:08,803 - INFO - Top 10 features by importance: ['OverTime', 'YearsAtCompany', 'YearsInCurrentRole', 'YearsSinceLastPromotion', 'NumCompaniesWorked', 'YearsWithCurrManager', 'MaritalStatus', 'JobLevel', 'JobSatisfaction', 'TotalWorkingYears']
+2025-05-04 13:36:08,804 - INFO - Visualizing feature importance
+2025-05-04 13:36:09,032 - INFO - Feature importance plot saved to feature_importance_plot.png
+2025-05-04 13:36:09,038 - INFO - Starting future salary regression
+2025-05-04 13:36:09,043 - INFO - Split regression data: 1021 train, 256 test samples
+2025-05-04 13:36:31,154 - INFO - Best regression hyperparameters: {'max_depth': 3, 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 100}
+2025-05-04 13:36:31,784 - INFO - Cross-validation R2 scores: [0.9341942  0.92144331 0.93822294 0.94107675 0.91487301] (mean: 0.930)
+2025-05-04 13:36:31,791 - INFO - Regression Metrics:
+2025-05-04 13:36:31,791 - INFO - R^2 Score: 0.917
+2025-05-04 13:36:31,792 - INFO - RMSE: 1396.807
+2025-05-04 13:36:31,797 - INFO - Top 5 important features for salary prediction:
+2025-05-04 13:36:31,797 - INFO - 
+                   feature  importance
+7                 JobLevel    0.991368
+9        TotalWorkingYears    0.007918
+2       YearsInCurrentRole    0.000367
+5     YearsWithCurrManager    0.000084
+3  YearsSinceLastPromotion    0.000066
+2025-05-04 13:36:44,030 - INFO - Results saved to attrition_analysis_results_20250504_133643.csv
+2025-05-04 13:36:44,058 - INFO - Models, scalers, and feature importance saved with timestamp 20250504_133643
+2025-05-04 13:45:19,624 - INFO - Loading dataset from c:\Users\Srimanth L\OneDrive\Desktop\C Programs\WA_Fn-UseC_-HR-Employee-Attrition.csv
+2025-05-04 13:45:19,636 - INFO - Dataset loaded successfully with 1470 rows and 35 columns
+2025-05-04 13:45:19,652 - INFO - Preprocessing data
+2025-05-04 13:45:19,654 - INFO - Encoded categorical column: BusinessTravel
+2025-05-04 13:45:19,654 - INFO - Encoded categorical column: Department
+2025-05-04 13:45:19,655 - INFO - Encoded categorical column: EducationField
+2025-05-04 13:45:19,656 - INFO - Encoded categorical column: Gender
+2025-05-04 13:45:19,656 - INFO - Encoded categorical column: JobRole
+2025-05-04 13:45:19,657 - INFO - Encoded categorical column: MaritalStatus
+2025-05-04 13:45:19,657 - INFO - Encoded categorical column: Over18
+2025-05-04 13:45:19,657 - INFO - Encoded categorical column: OverTime
+2025-05-04 13:45:19,666 - INFO - Imputed missing values using KNNImputer
+2025-05-04 13:45:19,686 - INFO - Performing feature engineering
+2025-05-04 13:45:19,688 - INFO - Created features: Satisfaction_Weighted_Salary, YearsSincePromotion
+2025-05-04 13:45:19,708 - INFO - Simulating future salaries
+2025-05-04 13:45:19,709 - INFO - Calculated future salaries with increments
+2025-05-04 13:45:19,756 - INFO - Starting attrition classification
+2025-05-04 13:45:19,763 - INFO - Split data: 1176 train, 294 test samples
+2025-05-04 13:45:23,945 - INFO - Best hyperparameters: {'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}
+2025-05-04 13:45:24,614 - INFO - Cross-validation F1 scores: [0.51351351 0.4        0.42253521 0.44155844 0.45070423] (mean: 0.446)
+2025-05-04 13:45:24,615 - INFO - Classification Metrics:
+2025-05-04 13:45:24,617 - INFO - F1 Score: 0.500
+2025-05-04 13:45:24,618 - INFO - Precision: 0.714
+2025-05-04 13:45:24,620 - INFO - Recall: 0.385
+2025-05-04 13:45:24,621 - INFO - AUC-ROC: 0.770
+2025-05-04 13:45:24,622 - INFO - Top 10 features by importance: ['OverTime', 'YearsAtCompany', 'YearsInCurrentRole', 'YearsSinceLastPromotion', 'NumCompaniesWorked', 'YearsWithCurrManager', 'MaritalStatus', 'JobLevel', 'JobSatisfaction', 'TotalWorkingYears']
+2025-05-04 13:45:24,623 - INFO - Visualizing feature importance
+2025-05-04 13:45:24,860 - INFO - Feature importance plot saved to feature_importance_plot.png
+2025-05-04 13:45:24,868 - INFO - Starting future salary regression
+2025-05-04 13:45:24,872 - INFO - Split regression data: 1021 train, 256 test samples
+2025-05-04 13:45:49,006 - INFO - Best regression hyperparameters: {'max_depth': 3, 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 100}
+2025-05-04 13:45:49,638 - INFO - Cross-validation R2 scores: [0.9341942  0.92144331 0.93822294 0.94107675 0.91487301] (mean: 0.930)
+2025-05-04 13:45:49,645 - INFO - Regression Metrics:
+2025-05-04 13:45:49,645 - INFO - R^2 Score: 0.917
+2025-05-04 13:45:49,646 - INFO - RMSE: 1396.807
+2025-05-04 13:45:49,651 - INFO - Top 5 important features for salary prediction:
+2025-05-04 13:45:49,651 - INFO - 
+                   feature  importance
+7                 JobLevel    0.991368
+9        TotalWorkingYears    0.007918
+2       YearsInCurrentRole    0.000367
+5     YearsWithCurrManager    0.000084
+3  YearsSinceLastPromotion    0.000066
+2025-05-04 13:46:02,428 - INFO - Performing detailed error analysis
+2025-05-04 13:46:02,428 - INFO - 
+Classification Model Analysis:
+2025-05-04 13:46:02,599 - INFO - 
+Regression Model Analysis:
+2025-05-04 13:46:02,872 - INFO - Results saved to attrition_analysis_results_20250504_134602.csv
+2025-05-04 13:46:02,893 - INFO - Models, scalers, and feature importance saved with timestamp 20250504_134602
+2025-05-04 18:53:53,472 - INFO - Loading dataset from c:\Users\Srimanth L\OneDrive\Desktop\C Programs\WA_Fn-UseC_-HR-Employee-Attrition.csv
+2025-05-04 18:53:53,482 - INFO - Dataset loaded successfully with 1470 rows and 35 columns
+2025-05-04 18:53:53,501 - INFO - Preprocessing data
+2025-05-04 18:53:53,502 - INFO - Encoded categorical column: BusinessTravel
+2025-05-04 18:53:53,503 - INFO - Encoded categorical column: Department
+2025-05-04 18:53:53,503 - INFO - Encoded categorical column: EducationField
+2025-05-04 18:53:53,504 - INFO - Encoded categorical column: Gender
+2025-05-04 18:53:53,504 - INFO - Encoded categorical column: JobRole
+2025-05-04 18:53:53,505 - INFO - Encoded categorical column: MaritalStatus
+2025-05-04 18:53:53,506 - INFO - Encoded categorical column: Over18
+2025-05-04 18:53:53,506 - INFO - Encoded categorical column: OverTime
+2025-05-04 18:53:53,514 - INFO - Imputed missing values using KNNImputer
+2025-05-04 18:53:54,430 - INFO - Enhancing models with advanced techniques
+2025-05-04 18:53:54,430 - INFO - Creating interaction features
+2025-05-04 18:57:19,316 - INFO - Loading dataset from c:\Users\Srimanth L\OneDrive\Desktop\C Programs\WA_Fn-UseC_-HR-Employee-Attrition.csv
+2025-05-04 18:57:19,324 - INFO - Dataset loaded successfully with 1470 rows and 35 columns
+2025-05-04 18:57:19,338 - INFO - Preprocessing data
+2025-05-04 18:57:19,339 - INFO - Encoded categorical column: BusinessTravel
+2025-05-04 18:57:19,339 - INFO - Encoded categorical column: Department
+2025-05-04 18:57:19,340 - INFO - Encoded categorical column: EducationField
+2025-05-04 18:57:19,340 - INFO - Encoded categorical column: Gender
+2025-05-04 18:57:19,341 - INFO - Encoded categorical column: JobRole
+2025-05-04 18:57:19,341 - INFO - Encoded categorical column: MaritalStatus
+2025-05-04 18:57:19,341 - INFO - Encoded categorical column: Over18
+2025-05-04 18:57:19,342 - INFO - Encoded categorical column: OverTime
+2025-05-04 18:57:19,346 - INFO - Imputed missing values using KNNImputer
+2025-05-04 18:57:19,372 - INFO - Enhancing models with advanced techniques
+2025-05-04 18:57:19,372 - INFO - Creating interaction features
+2025-05-04 19:04:02,765 - INFO - Loading dataset from c:\Users\Srimanth L\OneDrive\Desktop\C Programs\WA_Fn-UseC_-HR-Employee-Attrition.csv
+2025-05-04 19:04:02,772 - INFO - Dataset loaded successfully with 1470 rows and 35 columns
+2025-05-04 19:04:02,791 - INFO - Preprocessing data
+2025-05-04 19:04:02,792 - INFO - Encoded categorical column: BusinessTravel
+2025-05-04 19:04:02,793 - INFO - Encoded categorical column: Department
+2025-05-04 19:04:02,793 - INFO - Encoded categorical column: EducationField
+2025-05-04 19:04:02,794 - INFO - Encoded categorical column: Gender
+2025-05-04 19:04:02,794 - INFO - Encoded categorical column: JobRole
+2025-05-04 19:04:02,794 - INFO - Encoded categorical column: MaritalStatus
+2025-05-04 19:04:02,795 - INFO - Encoded categorical column: Over18
+2025-05-04 19:04:02,795 - INFO - Encoded categorical column: OverTime
+2025-05-04 19:04:02,802 - INFO - Imputed missing values using KNNImputer
+2025-05-04 19:04:02,828 - INFO - Performing feature engineering
+2025-05-04 19:04:02,830 - INFO - Created features: Satisfaction_Weighted_Salary, YearsSincePromotion
+2025-05-04 19:04:02,853 - INFO - Simulating future salaries
+2025-05-04 19:04:02,855 - INFO - Calculated future salaries with increments
+2025-05-04 19:04:02,904 - INFO - Starting attrition classification
+2025-05-04 19:04:02,909 - INFO - Split data: 1176 train, 294 test samples
+2025-05-04 19:04:07,783 - INFO - Best hyperparameters: {'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}
+2025-05-04 19:04:08,422 - INFO - Cross-validation F1 scores: [0.51351351 0.4        0.42253521 0.44155844 0.45070423] (mean: 0.446)
+2025-05-04 19:04:08,423 - INFO - Classification Metrics:
+2025-05-04 19:04:08,425 - INFO - F1 Score: 0.500
+2025-05-04 19:04:08,427 - INFO - Precision: 0.714
+2025-05-04 19:04:08,429 - INFO - Recall: 0.385
+2025-05-04 19:04:08,430 - INFO - AUC-ROC: 0.770
+2025-05-04 19:04:08,431 - INFO - Top 10 features by importance: ['OverTime', 'YearsAtCompany', 'YearsInCurrentRole', 'YearsSinceLastPromotion', 'NumCompaniesWorked', 'YearsWithCurrManager', 'MaritalStatus', 'JobLevel', 'JobSatisfaction', 'TotalWorkingYears']
+2025-05-04 19:04:08,432 - INFO - Visualizing feature importance
+2025-05-04 19:04:08,670 - INFO - Feature importance plot saved to feature_importance_plot.png
+2025-05-04 19:04:08,677 - INFO - Starting future salary regression
+2025-05-04 19:04:08,682 - INFO - Split regression data: 1021 train, 256 test samples
+2025-05-04 19:04:33,635 - INFO - Best regression hyperparameters: {'max_depth': 3, 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 100}
+2025-05-04 19:04:34,281 - INFO - Cross-validation R2 scores: [0.9341942  0.92144331 0.93822294 0.94107675 0.91487301] (mean: 0.930)
+2025-05-04 19:04:34,288 - INFO - Regression Metrics:
+2025-05-04 19:04:34,288 - INFO - R^2 Score: 0.917
+2025-05-04 19:04:34,289 - INFO - RMSE: 1396.807
+2025-05-04 19:04:34,294 - INFO - Top 5 important features for salary prediction:
+2025-05-04 19:04:34,295 - INFO - 
+                   feature  importance
+7                 JobLevel    0.991368
+9        TotalWorkingYears    0.007918
+2       YearsInCurrentRole    0.000367
+5     YearsWithCurrManager    0.000084
+3  YearsSinceLastPromotion    0.000066
+2025-05-04 19:04:46,861 - INFO - Performing detailed error analysis
+2025-05-04 19:04:46,861 - INFO - 
+Classification Model Analysis:
+2025-05-04 19:04:47,053 - INFO - 
+Regression Model Analysis:
+2025-05-04 19:04:47,292 - INFO - Results saved to attrition_analysis_results_20250504_190447.csv
+2025-05-04 19:04:47,311 - INFO - Models, scalers, and feature importance saved with timestamp 20250504_190447
+2025-05-04 19:04:47,347 - INFO - Starting analysis pipeline
+2025-05-04 19:04:47,347 - INFO - Loading dataset from c:\Users\Srimanth L\OneDrive\Desktop\C Programs\WA_Fn-UseC_-HR-Employee-Attrition.csv
+2025-05-04 19:04:47,353 - INFO - Dataset loaded successfully with 1470 rows and 35 columns
+2025-05-04 19:04:47,353 - INFO - Preprocessing data
+2025-05-04 19:04:47,354 - INFO - Encoded categorical column: BusinessTravel
+2025-05-04 19:04:47,354 - INFO - Encoded categorical column: Department
+2025-05-04 19:04:47,354 - INFO - Encoded categorical column: EducationField
+2025-05-04 19:04:47,355 - INFO - Encoded categorical column: Gender
+2025-05-04 19:04:47,355 - INFO - Encoded categorical column: JobRole
+2025-05-04 19:04:47,356 - INFO - Encoded categorical column: MaritalStatus
+2025-05-04 19:04:47,356 - INFO - Encoded categorical column: Over18
+2025-05-04 19:04:47,356 - INFO - Encoded categorical column: OverTime
+2025-05-04 19:04:47,361 - INFO - Imputed missing values using KNNImputer
+2025-05-04 19:04:47,361 - INFO - Performing feature engineering
+2025-05-04 19:04:47,362 - INFO - Created features: Satisfaction_Weighted_Salary, YearsSincePromotion
+2025-05-04 19:04:47,362 - INFO - Simulating future salaries
+2025-05-04 19:04:47,363 - INFO - Calculated future salaries with increments
+2025-05-04 19:04:47,363 - INFO - Enhancing models with advanced techniques
+2025-05-04 19:04:47,363 - INFO - Creating interaction features
+2025-05-04 19:04:47,364 - INFO - Starting attrition classification
+2025-05-04 19:04:47,368 - INFO - Split data: 1176 train, 294 test samples
+2025-05-04 19:04:47,601 - INFO - Best hyperparameters: {'C': 1, 'penalty': 'l1', 'solver': 'liblinear'}
+2025-05-04 19:04:47,669 - INFO - Cross-validation F1 scores: [0.53333333 0.375      0.42857143 0.44444444 0.45714286] (mean: 0.448)
+2025-05-04 19:04:47,670 - INFO - Classification Metrics:
+2025-05-04 19:04:47,672 - INFO - F1 Score: 0.508
+2025-05-04 19:04:47,673 - INFO - Precision: 0.750
+2025-05-04 19:04:47,675 - INFO - Recall: 0.385
+2025-05-04 19:04:47,676 - INFO - AUC-ROC: 0.765
+2025-05-04 19:04:47,677 - INFO - Top 10 features by importance: ['OverTime', 'Satisfaction_Experience', 'YearsInCurrentRole', 'Performance_Satisfaction', 'YearsSinceLastPromotion', 'NumCompaniesWorked', 'MaritalStatus', 'YearsWithCurrManager', 'TotalWorkingYears', 'JobLevel']
+2025-05-04 19:04:47,677 - INFO - Starting future salary regression
+2025-05-04 19:04:47,681 - INFO - Split regression data: 1028 train, 257 test samples
+2025-05-04 19:05:13,331 - INFO - Best regression hyperparameters: {'max_depth': 5, 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 100}
+2025-05-04 19:05:14,154 - INFO - Cross-validation R2 scores: [0.93719858 0.92286917 0.93239809 0.94082611 0.91525691] (mean: 0.930)
+2025-05-04 19:05:14,162 - INFO - Regression Metrics:
+2025-05-04 19:05:14,162 - INFO - R^2 Score: 0.932
+2025-05-04 19:05:14,163 - INFO - RMSE: 1385.564
+2025-05-04 19:05:14,168 - INFO - Top 5 important features for salary prediction:
+2025-05-04 19:05:14,168 - INFO - 
+                    feature  importance
+9                  JobLevel    0.978151
+8         TotalWorkingYears    0.011899
+5        NumCompaniesWorked    0.001920
+1   Satisfaction_Experience    0.001831
+3  Performance_Satisfaction    0.001492
+2025-05-04 19:05:27,116 - INFO - Visualizing feature importance
+2025-05-04 19:05:27,117 - WARNING - Mismatch in feature importance and feature names: 40 vs 45
+2025-05-04 19:05:27,387 - INFO - Feature importance plot saved to feature_importance_plot.png
+2025-05-04 19:05:27,389 - INFO - Performing detailed error analysis
+2025-05-04 19:05:27,389 - INFO - 
+Classification Model Analysis:
+2025-05-04 19:05:27,393 - ERROR - Error in analysis pipeline: X has 45 features, but LogisticRegression is expecting 40 features as input.
+2025-05-04 19:06:39,648 - INFO - Loading dataset from c:\Users\Srimanth L\OneDrive\Desktop\C Programs\WA_Fn-UseC_-HR-Employee-Attrition.csv
+2025-05-04 19:06:39,654 - INFO - Dataset loaded successfully with 1470 rows and 35 columns
+2025-05-04 19:06:39,669 - INFO - Preprocessing data
+2025-05-04 19:06:39,670 - INFO - Encoded categorical column: BusinessTravel
+2025-05-04 19:06:39,670 - INFO - Encoded categorical column: Department
+2025-05-04 19:06:39,671 - INFO - Encoded categorical column: EducationField
+2025-05-04 19:06:39,671 - INFO - Encoded categorical column: Gender
+2025-05-04 19:06:39,672 - INFO - Encoded categorical column: JobRole
+2025-05-04 19:06:39,672 - INFO - Encoded categorical column: MaritalStatus
+2025-05-04 19:06:39,672 - INFO - Encoded categorical column: Over18
+2025-05-04 19:06:39,673 - INFO - Encoded categorical column: OverTime
+2025-05-04 19:06:39,678 - INFO - Imputed missing values using KNNImputer
+2025-05-04 19:06:39,698 - INFO - Performing feature engineering
+2025-05-04 19:06:39,699 - INFO - Created features: Satisfaction_Weighted_Salary, YearsSincePromotion
+2025-05-04 19:06:39,718 - INFO - Simulating future salaries
+2025-05-04 19:06:39,720 - INFO - Calculated future salaries with increments
+2025-05-04 19:06:39,789 - INFO - Starting attrition classification
+2025-05-04 19:06:39,794 - INFO - Split data: 1176 train, 294 test samples
+2025-05-04 19:06:40,131 - INFO - Best hyperparameters: {'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}
+2025-05-04 19:06:40,711 - INFO - Cross-validation F1 scores: [0.51351351 0.4        0.42253521 0.44155844 0.45070423] (mean: 0.446)
+2025-05-04 19:06:40,711 - INFO - Classification Metrics:
+2025-05-04 19:06:40,713 - INFO - F1 Score: 0.500
+2025-05-04 19:06:40,714 - INFO - Precision: 0.714
+2025-05-04 19:06:40,716 - INFO - Recall: 0.385
+2025-05-04 19:06:40,717 - INFO - AUC-ROC: 0.770
+2025-05-04 19:06:40,718 - INFO - Top 10 features by importance: ['OverTime', 'YearsAtCompany', 'YearsInCurrentRole', 'YearsSinceLastPromotion', 'NumCompaniesWorked', 'YearsWithCurrManager', 'MaritalStatus', 'JobLevel', 'JobSatisfaction', 'TotalWorkingYears']
+2025-05-04 19:06:40,719 - INFO - Visualizing feature importance
+2025-05-04 19:06:40,950 - INFO - Feature importance plot saved to feature_importance_plot.png
+2025-05-04 19:06:40,957 - INFO - Starting future salary regression
+2025-05-04 19:06:40,961 - INFO - Split regression data: 1021 train, 256 test samples
+2025-05-04 19:07:07,896 - INFO - Best regression hyperparameters: {'max_depth': 3, 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 100}
+2025-05-04 19:07:08,553 - INFO - Cross-validation R2 scores: [0.9341942  0.92144331 0.93822294 0.94107675 0.91487301] (mean: 0.930)
+2025-05-04 19:07:08,560 - INFO - Regression Metrics:
+2025-05-04 19:07:08,560 - INFO - R^2 Score: 0.917
+2025-05-04 19:07:08,561 - INFO - RMSE: 1396.807
+2025-05-04 19:07:08,566 - INFO - Top 5 important features for salary prediction:
+2025-05-04 19:07:08,567 - INFO - 
+                   feature  importance
+7                 JobLevel    0.991368
+9        TotalWorkingYears    0.007918
+2       YearsInCurrentRole    0.000367
+5     YearsWithCurrManager    0.000084
+3  YearsSinceLastPromotion    0.000066
+2025-05-04 19:07:23,312 - INFO - Performing detailed error analysis
+2025-05-04 19:07:23,312 - INFO - 
+Classification Model Analysis:
+2025-05-04 19:07:23,543 - INFO - 
+Regression Model Analysis:
+2025-05-04 19:07:23,857 - INFO - Results saved to attrition_analysis_results_20250504_190723.csv
+2025-05-04 19:07:23,883 - INFO - Models, scalers, and feature importance saved with timestamp 20250504_190723
+2025-05-04 19:07:23,926 - INFO - Starting analysis pipeline
+2025-05-04 19:07:23,926 - INFO - Loading dataset from c:\Users\Srimanth L\OneDrive\Desktop\C Programs\WA_Fn-UseC_-HR-Employee-Attrition.csv
+2025-05-04 19:07:23,934 - INFO - Dataset loaded successfully with 1470 rows and 35 columns
+2025-05-04 19:07:23,935 - INFO - Preprocessing data
+2025-05-04 19:07:23,935 - INFO - Encoded categorical column: BusinessTravel
+2025-05-04 19:07:23,936 - INFO - Encoded categorical column: Department
+2025-05-04 19:07:23,937 - INFO - Encoded categorical column: EducationField
+2025-05-04 19:07:23,937 - INFO - Encoded categorical column: Gender
+2025-05-04 19:07:23,938 - INFO - Encoded categorical column: JobRole
+2025-05-04 19:07:23,939 - INFO - Encoded categorical column: MaritalStatus
+2025-05-04 19:07:23,940 - INFO - Encoded categorical column: Over18
+2025-05-04 19:07:23,940 - INFO - Encoded categorical column: OverTime
+2025-05-04 19:07:23,947 - INFO - Imputed missing values using KNNImputer
+2025-05-04 19:07:23,947 - INFO - Performing feature engineering
+2025-05-04 19:07:23,948 - INFO - Created features: Satisfaction_Weighted_Salary, YearsSincePromotion
+2025-05-04 19:07:23,948 - INFO - Simulating future salaries
+2025-05-04 19:07:23,949 - INFO - Calculated future salaries with increments
+2025-05-04 19:07:23,949 - INFO - Enhancing models with advanced techniques
+2025-05-04 19:07:23,949 - INFO - Creating interaction features
+2025-05-04 19:07:23,950 - INFO - Starting attrition classification
+2025-05-04 19:07:23,957 - INFO - Split data: 1176 train, 294 test samples
+2025-05-04 19:07:24,232 - INFO - Best hyperparameters: {'C': 1, 'penalty': 'l1', 'solver': 'liblinear'}
+2025-05-04 19:07:24,299 - INFO - Cross-validation F1 scores: [0.53333333 0.375      0.42857143 0.44444444 0.45714286] (mean: 0.448)
+2025-05-04 19:07:24,300 - INFO - Classification Metrics:
+2025-05-04 19:07:24,302 - INFO - F1 Score: 0.508
+2025-05-04 19:07:24,304 - INFO - Precision: 0.750
+2025-05-04 19:07:24,306 - INFO - Recall: 0.385
+2025-05-04 19:07:24,308 - INFO - AUC-ROC: 0.765
+2025-05-04 19:07:24,308 - INFO - Top 10 features by importance: ['OverTime', 'Satisfaction_Experience', 'YearsInCurrentRole', 'Performance_Satisfaction', 'YearsSinceLastPromotion', 'NumCompaniesWorked', 'MaritalStatus', 'YearsWithCurrManager', 'TotalWorkingYears', 'JobLevel']
+2025-05-04 19:07:24,308 - INFO - Starting future salary regression
+2025-05-04 19:07:24,313 - INFO - Split regression data: 1028 train, 257 test samples
+2025-05-04 19:07:55,011 - INFO - Best regression hyperparameters: {'max_depth': 5, 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 100}
+2025-05-04 19:07:55,847 - INFO - Cross-validation R2 scores: [0.93719858 0.92286917 0.93239809 0.94082611 0.91525691] (mean: 0.930)
+2025-05-04 19:07:55,855 - INFO - Regression Metrics:
+2025-05-04 19:07:55,856 - INFO - R^2 Score: 0.932
+2025-05-04 19:07:55,856 - INFO - RMSE: 1385.564
+2025-05-04 19:07:55,862 - INFO - Top 5 important features for salary prediction:
+2025-05-04 19:07:55,862 - INFO - 
+                    feature  importance
+9                  JobLevel    0.978151
+8         TotalWorkingYears    0.011899
+5        NumCompaniesWorked    0.001920
+1   Satisfaction_Experience    0.001831
+3  Performance_Satisfaction    0.001492
+2025-05-04 19:08:09,290 - INFO - Visualizing feature importance
+2025-05-04 19:08:09,290 - WARNING - Mismatch in feature importance and feature names: 40 vs 45
+2025-05-04 19:08:09,575 - INFO - Feature importance plot saved to feature_importance_plot.png
+2025-05-04 19:08:09,575 - INFO - Performing detailed error analysis
+2025-05-04 19:08:09,575 - INFO - 
+Classification Model Analysis:
+2025-05-04 19:08:09,739 - INFO - 
+Regression Model Analysis:
+2025-05-04 19:08:10,152 - INFO - Results saved to attrition_analysis_results_20250504_190723.csv
+2025-05-04 19:08:10,176 - INFO - Analysis pipeline completed successfully
+2025-05-04 19:08:10,176 - INFO - All outputs saved with timestamp 20250504_190723
+2025-05-04 19:15:37,834 - INFO - Loading dataset from c:\Users\Srimanth L\OneDrive\Desktop\C Programs\WA_Fn-UseC_-HR-Employee-Attrition.csv
+2025-05-04 19:15:37,841 - INFO - Dataset loaded successfully with 1470 rows and 35 columns
+2025-05-04 19:15:37,861 - INFO - Preprocessing data
+2025-05-04 19:15:37,862 - INFO - Encoded categorical column: BusinessTravel
+2025-05-04 19:15:37,864 - INFO - Encoded categorical column: Department
+2025-05-04 19:15:37,864 - INFO - Encoded categorical column: EducationField
+2025-05-04 19:15:37,865 - INFO - Encoded categorical column: Gender
+2025-05-04 19:15:37,866 - INFO - Encoded categorical column: JobRole
+2025-05-04 19:15:37,866 - INFO - Encoded categorical column: MaritalStatus
+2025-05-04 19:15:37,867 - INFO - Encoded categorical column: Over18
+2025-05-04 19:15:37,867 - INFO - Encoded categorical column: OverTime
+2025-05-04 19:15:37,876 - INFO - Imputed missing values using KNNImputer
+2025-05-04 19:15:37,903 - INFO - Performing feature engineering
+2025-05-04 19:15:37,904 - INFO - Created features: Satisfaction_Weighted_Salary, YearsSincePromotion
+2025-05-04 19:15:37,928 - INFO - Performing advanced feature engineering
+2025-05-04 19:18:00,346 - INFO - Loading dataset from c:\Users\Srimanth L\OneDrive\Desktop\C Programs\WA_Fn-UseC_-HR-Employee-Attrition.csv
+2025-05-04 19:18:00,354 - INFO - Dataset loaded successfully with 1470 rows and 35 columns
+2025-05-04 19:18:00,368 - INFO - Preprocessing data
+2025-05-04 19:18:00,369 - INFO - Encoded categorical column: BusinessTravel
+2025-05-04 19:18:00,369 - INFO - Encoded categorical column: Department
+2025-05-04 19:18:00,370 - INFO - Encoded categorical column: EducationField
+2025-05-04 19:18:00,370 - INFO - Encoded categorical column: Gender
+2025-05-04 19:18:00,371 - INFO - Encoded categorical column: JobRole
+2025-05-04 19:18:00,371 - INFO - Encoded categorical column: MaritalStatus
+2025-05-04 19:18:00,371 - INFO - Encoded categorical column: Over18
+2025-05-04 19:18:00,372 - INFO - Encoded categorical column: OverTime
+2025-05-04 19:18:00,377 - INFO - Imputed missing values using KNNImputer
+2025-05-04 19:18:00,396 - INFO - Performing feature engineering
+2025-05-04 19:18:00,397 - INFO - Created features: Satisfaction_Weighted_Salary, YearsSincePromotion
+2025-05-04 19:18:00,428 - INFO - Simulating future salaries
+2025-05-04 19:18:00,429 - INFO - Calculated future salaries with increments
+2025-05-04 19:18:00,493 - INFO - Starting attrition classification
+2025-05-04 19:18:00,498 - INFO - Split data: 1176 train, 294 test samples
+2025-05-04 19:18:04,129 - INFO - Best hyperparameters: {'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}
+2025-05-04 19:18:04,745 - INFO - Cross-validation F1 scores: [0.51351351 0.4        0.42253521 0.44155844 0.45070423] (mean: 0.446)
+2025-05-04 19:18:04,745 - INFO - Classification Metrics:
+2025-05-04 19:18:04,747 - INFO - F1 Score: 0.500
+2025-05-04 19:18:04,748 - INFO - Precision: 0.714
+2025-05-04 19:18:04,750 - INFO - Recall: 0.385
+2025-05-04 19:18:04,752 - INFO - AUC-ROC: 0.770
+2025-05-04 19:18:04,752 - INFO - Top 10 features by importance: ['OverTime', 'YearsAtCompany', 'YearsInCurrentRole', 'YearsSinceLastPromotion', 'NumCompaniesWorked', 'YearsWithCurrManager', 'MaritalStatus', 'JobLevel', 'JobSatisfaction', 'TotalWorkingYears']
+2025-05-04 19:18:04,753 - INFO - Visualizing feature importance
+2025-05-04 19:18:05,003 - INFO - Feature importance plot saved to feature_importance_plot.png
+2025-05-04 19:18:05,010 - INFO - Starting future salary regression
+2025-05-04 19:18:05,014 - INFO - Split regression data: 1021 train, 256 test samples
+2025-05-04 19:18:29,269 - INFO - Best regression hyperparameters: {'max_depth': 3, 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 100}
+2025-05-04 19:18:30,016 - INFO - Cross-validation R2 scores: [0.9341942  0.92144331 0.93822294 0.94107675 0.91487301] (mean: 0.930)
+2025-05-04 19:18:30,023 - INFO - Regression Metrics:
+2025-05-04 19:18:30,023 - INFO - R^2 Score: 0.917
+2025-05-04 19:18:30,024 - INFO - RMSE: 1396.807
+2025-05-04 19:18:30,029 - INFO - Top 5 important features for salary prediction:
+2025-05-04 19:18:30,030 - INFO - 
+                   feature  importance
+7                 JobLevel    0.991368
+9        TotalWorkingYears    0.007918
+2       YearsInCurrentRole    0.000367
+5     YearsWithCurrManager    0.000084
+3  YearsSinceLastPromotion    0.000066
+2025-05-04 19:18:44,657 - INFO - Performing detailed error analysis
+2025-05-04 19:18:44,657 - INFO - 
+Classification Model Analysis:
+2025-05-04 19:18:44,854 - INFO - 
+Regression Model Analysis:
+2025-05-04 19:18:45,144 - INFO - Results saved to attrition_analysis_results_20250504_191845.csv
+2025-05-04 19:18:45,168 - INFO - Models, scalers, and feature importance saved with timestamp 20250504_191845
+2025-05-04 19:18:45,202 - INFO - Starting analysis pipeline
+2025-05-04 19:18:45,202 - INFO - Loading dataset from c:\Users\Srimanth L\OneDrive\Desktop\C Programs\WA_Fn-UseC_-HR-Employee-Attrition.csv
+2025-05-04 19:18:45,210 - INFO - Dataset loaded successfully with 1470 rows and 35 columns
+2025-05-04 19:18:45,211 - INFO - Preprocessing data
+2025-05-04 19:18:45,211 - INFO - Encoded categorical column: BusinessTravel
+2025-05-04 19:18:45,212 - INFO - Encoded categorical column: Department
+2025-05-04 19:18:45,213 - INFO - Encoded categorical column: EducationField
+2025-05-04 19:18:45,213 - INFO - Encoded categorical column: Gender
+2025-05-04 19:18:45,214 - INFO - Encoded categorical column: JobRole
+2025-05-04 19:18:45,214 - INFO - Encoded categorical column: MaritalStatus
+2025-05-04 19:18:45,215 - INFO - Encoded categorical column: Over18
+2025-05-04 19:18:45,215 - INFO - Encoded categorical column: OverTime
+2025-05-04 19:18:45,221 - INFO - Imputed missing values using KNNImputer
+2025-05-04 19:18:45,222 - INFO - Performing feature engineering
+2025-05-04 19:18:45,223 - INFO - Created features: Satisfaction_Weighted_Salary, YearsSincePromotion
+2025-05-04 19:18:45,223 - INFO - Performing advanced feature engineering
+2025-05-04 19:18:45,224 - INFO - Using features: ['JobLevel', 'PerformanceRating', 'YearsAtCompany', 'TotalWorkingYears', 'TenurePerf', 'IncomeAgeRatio', 'Education', 'Age']
+2025-05-04 19:18:45,224 - INFO - Simulating future salaries
+2025-05-04 19:18:45,225 - INFO - Calculated future salaries with increments
+2025-05-04 19:18:45,225 - INFO - Added LogFutureSalary transformation
+2025-05-04 19:18:45,225 - INFO - Enhancing models with advanced techniques
+2025-05-04 19:18:45,225 - INFO - Creating interaction features
+2025-05-04 19:18:45,226 - INFO - Starting attrition classification
+2025-05-04 19:18:45,240 - INFO - Split data: 1176 train, 294 test samples
+2025-05-04 19:18:45,544 - INFO - Best hyperparameters: {'C': 10, 'penalty': 'l2', 'solver': 'liblinear'}
+2025-05-04 19:18:45,618 - INFO - Cross-validation F1 scores: [0.55696203 0.46376812 0.45333333 0.52631579 0.53521127] (mean: 0.507)
+2025-05-04 19:18:45,620 - INFO - Classification Metrics:
+2025-05-04 19:18:45,622 - INFO - F1 Score: 0.386
+2025-05-04 19:18:45,624 - INFO - Precision: 0.611
+2025-05-04 19:18:45,626 - INFO - Recall: 0.282
+2025-05-04 19:18:45,628 - INFO - AUC-ROC: 0.768
+2025-05-04 19:18:45,629 - INFO - Top 10 features by importance: ['Performance_Satisfaction', 'LogFutureSalary', 'JobSatisfaction', 'MonthlyIncome', 'OverTime', 'Satisfaction_Experience', 'YearsSinceLastPromotion', 'Department', 'NumCompaniesWorked', 'YearsInCurrentRole']
+2025-05-04 19:18:45,629 - INFO - Starting future salary regression
+2025-05-04 19:18:45,635 - INFO - Split regression data: 1016 train, 254 test samples
+2025-05-04 19:19:18,707 - INFO - Best regression hyperparameters: {'max_depth': 10, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}
+2025-05-04 19:19:23,581 - INFO - Cross-validation R2 scores: [0.99998116 0.99997791 0.9999411  0.99996725 0.99997009] (mean: 1.000)
+2025-05-04 19:19:23,608 - INFO - Regression Metrics:
+2025-05-04 19:19:23,608 - INFO - R^2 Score: 1.000
+2025-05-04 19:19:23,609 - INFO - RMSE: 27.565
+2025-05-04 19:19:23,625 - INFO - Top 5 important features for salary prediction:
+2025-05-04 19:19:23,625 - INFO - 
+                   feature  importance
+1          LogFutureSalary    0.999948
+4  Satisfaction_Experience    0.000011
+7       NumCompaniesWorked    0.000009
+8       YearsInCurrentRole    0.000009
+5  YearsSinceLastPromotion    0.000008
+2025-05-04 19:20:08,175 - ERROR - Error in analysis pipeline: 'numpy.ndarray' object has no attribute 'columns'
+2025-05-04 19:21:44,984 - INFO - Loading dataset from c:\Users\Srimanth L\OneDrive\Desktop\C Programs\WA_Fn-UseC_-HR-Employee-Attrition.csv
+2025-05-04 19:21:44,991 - INFO - Dataset loaded successfully with 1470 rows and 35 columns
+2025-05-04 19:21:45,006 - INFO - Preprocessing data
+2025-05-04 19:21:45,007 - INFO - Encoded categorical column: BusinessTravel
+2025-05-04 19:21:45,008 - INFO - Encoded categorical column: Department
+2025-05-04 19:21:45,008 - INFO - Encoded categorical column: EducationField
+2025-05-04 19:21:45,009 - INFO - Encoded categorical column: Gender
+2025-05-04 19:21:45,010 - INFO - Encoded categorical column: JobRole
+2025-05-04 19:21:45,010 - INFO - Encoded categorical column: MaritalStatus
+2025-05-04 19:21:45,010 - INFO - Encoded categorical column: Over18
+2025-05-04 19:21:45,011 - INFO - Encoded categorical column: OverTime
+2025-05-04 19:21:45,020 - INFO - Imputed missing values using KNNImputer
+2025-05-04 19:21:45,047 - INFO - Performing feature engineering
+2025-05-04 19:21:45,049 - INFO - Created features: Satisfaction_Weighted_Salary, YearsSincePromotion
+2025-05-04 19:21:45,086 - INFO - Simulating future salaries
+2025-05-04 19:21:45,087 - INFO - Calculated future salaries with increments
+2025-05-04 19:21:45,143 - INFO - Starting attrition classification
+2025-05-04 19:21:45,148 - INFO - Split data: 1176 train, 294 test samples
+2025-05-04 19:21:45,489 - INFO - Best hyperparameters: {'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}
+2025-05-04 19:21:46,110 - INFO - Cross-validation F1 scores: [0.51351351 0.4        0.42253521 0.44155844 0.45070423] (mean: 0.446)
+2025-05-04 19:21:46,111 - INFO - Classification Metrics:
+2025-05-04 19:21:46,113 - INFO - F1 Score: 0.500
+2025-05-04 19:21:46,114 - INFO - Precision: 0.714
+2025-05-04 19:21:46,116 - INFO - Recall: 0.385
+2025-05-04 19:21:46,117 - INFO - AUC-ROC: 0.770
+2025-05-04 19:21:46,118 - INFO - Top 10 features by importance: ['OverTime', 'YearsAtCompany', 'YearsInCurrentRole', 'YearsSinceLastPromotion', 'NumCompaniesWorked', 'YearsWithCurrManager', 'MaritalStatus', 'JobLevel', 'JobSatisfaction', 'TotalWorkingYears']
+2025-05-04 19:21:46,119 - INFO - Visualizing feature importance
+2025-05-04 19:21:46,353 - INFO - Feature importance plot saved to feature_importance_plot.png
+2025-05-04 19:21:46,359 - INFO - Starting future salary regression
+2025-05-04 19:21:46,364 - INFO - Split regression data: 1021 train, 256 test samples
+2025-05-04 19:22:14,895 - INFO - Best regression hyperparameters: {'max_depth': 3, 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 100}
+2025-05-04 19:22:15,675 - INFO - Cross-validation R2 scores: [0.9341942  0.92144331 0.93822294 0.94107675 0.91487301] (mean: 0.930)
+2025-05-04 19:22:15,683 - INFO - Regression Metrics:
+2025-05-04 19:22:15,684 - INFO - R^2 Score: 0.917
+2025-05-04 19:22:15,684 - INFO - RMSE: 1396.807
+2025-05-04 19:22:15,691 - INFO - Top 5 important features for salary prediction:
+2025-05-04 19:22:15,691 - INFO - 
+                   feature  importance
+7                 JobLevel    0.991368
+9        TotalWorkingYears    0.007918
+2       YearsInCurrentRole    0.000367
+5     YearsWithCurrManager    0.000084
+3  YearsSinceLastPromotion    0.000066
+2025-05-04 19:22:31,252 - INFO - Performing detailed error analysis
+2025-05-04 19:22:31,252 - INFO - 
+Classification Model Analysis:
+2025-05-04 19:22:31,497 - INFO - 
+Regression Model Analysis:
+2025-05-04 19:22:31,836 - INFO - Results saved to attrition_analysis_results_20250504_192231.csv
+2025-05-04 19:22:31,868 - INFO - Models, scalers, and feature importance saved with timestamp 20250504_192231
+2025-05-04 19:22:31,902 - INFO - Starting analysis pipeline
+2025-05-04 19:22:31,902 - INFO - Loading dataset from c:\Users\Srimanth L\OneDrive\Desktop\C Programs\WA_Fn-UseC_-HR-Employee-Attrition.csv
+2025-05-04 19:22:31,913 - INFO - Dataset loaded successfully with 1470 rows and 35 columns
+2025-05-04 19:22:31,913 - INFO - Preprocessing data
+2025-05-04 19:22:31,914 - INFO - Encoded categorical column: BusinessTravel
+2025-05-04 19:22:31,915 - INFO - Encoded categorical column: Department
+2025-05-04 19:22:31,915 - INFO - Encoded categorical column: EducationField
+2025-05-04 19:22:31,915 - INFO - Encoded categorical column: Gender
+2025-05-04 19:22:31,916 - INFO - Encoded categorical column: JobRole
+2025-05-04 19:22:31,917 - INFO - Encoded categorical column: MaritalStatus
+2025-05-04 19:22:31,917 - INFO - Encoded categorical column: Over18
+2025-05-04 19:22:31,917 - INFO - Encoded categorical column: OverTime
+2025-05-04 19:22:31,926 - INFO - Imputed missing values using KNNImputer
+2025-05-04 19:22:31,926 - INFO - Performing feature engineering
+2025-05-04 19:22:31,927 - INFO - Created features: Satisfaction_Weighted_Salary, YearsSincePromotion
+2025-05-04 19:22:31,927 - INFO - Performing advanced feature engineering
+2025-05-04 19:22:31,928 - INFO - Using features: ['JobLevel', 'PerformanceRating', 'YearsAtCompany', 'TotalWorkingYears', 'TenurePerf', 'IncomeAgeRatio', 'Education', 'Age']
+2025-05-04 19:22:31,928 - INFO - Simulating future salaries
+2025-05-04 19:22:31,929 - INFO - Calculated future salaries with increments
+2025-05-04 19:22:31,929 - INFO - Added LogFutureSalary transformation
+2025-05-04 19:22:31,930 - INFO - Enhancing models with advanced techniques
+2025-05-04 19:22:31,930 - INFO - Creating interaction features
+2025-05-04 19:22:31,931 - INFO - Starting attrition classification
+2025-05-04 19:22:31,936 - INFO - Split data: 1176 train, 294 test samples
+2025-05-04 19:22:32,198 - INFO - Best hyperparameters: {'C': 10, 'penalty': 'l2', 'solver': 'liblinear'}
+2025-05-04 19:22:32,266 - INFO - Cross-validation F1 scores: [0.55696203 0.46376812 0.45333333 0.52631579 0.53521127] (mean: 0.507)
+2025-05-04 19:22:32,267 - INFO - Classification Metrics:
+2025-05-04 19:22:32,269 - INFO - F1 Score: 0.386
+2025-05-04 19:22:32,271 - INFO - Precision: 0.611
+2025-05-04 19:22:32,273 - INFO - Recall: 0.282
+2025-05-04 19:22:32,274 - INFO - AUC-ROC: 0.768
+2025-05-04 19:22:32,275 - INFO - Top 10 features by importance: ['Performance_Satisfaction', 'LogFutureSalary', 'JobSatisfaction', 'MonthlyIncome', 'OverTime', 'Satisfaction_Experience', 'YearsSinceLastPromotion', 'Department', 'NumCompaniesWorked', 'YearsInCurrentRole']
+2025-05-04 19:22:32,275 - INFO - Starting future salary regression
+2025-05-04 19:22:32,280 - INFO - Split regression data: 1016 train, 254 test samples
+2025-05-04 19:23:01,906 - INFO - Best regression hyperparameters: {'max_depth': 10, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}
+2025-05-04 19:23:06,648 - INFO - Cross-validation R2 scores: [0.99998116 0.99997791 0.9999411  0.99996725 0.99997009] (mean: 1.000)
+2025-05-04 19:23:06,676 - INFO - Regression Metrics:
+2025-05-04 19:23:06,677 - INFO - R^2 Score: 1.000
+2025-05-04 19:23:06,677 - INFO - RMSE: 27.565
+2025-05-04 19:23:06,694 - INFO - Top 5 important features for salary prediction:
+2025-05-04 19:23:06,694 - INFO - 
+                   feature  importance
+1          LogFutureSalary    0.999948
+4  Satisfaction_Experience    0.000011
+7       NumCompaniesWorked    0.000009
+8       YearsInCurrentRole    0.000009
+5  YearsSinceLastPromotion    0.000008
+2025-05-04 19:23:49,796 - INFO - Visualizing feature importance
+2025-05-04 19:23:50,110 - INFO - Feature importance plot saved to feature_importance_plot.png
+2025-05-04 19:23:50,111 - INFO - Performing detailed error analysis
+2025-05-04 19:23:50,111 - INFO - 
+Classification Model Analysis:
+2025-05-04 19:23:50,284 - INFO - 
+Regression Model Analysis:
+2025-05-04 19:23:50,600 - INFO - Results saved to attrition_analysis_results_20250504_192231.csv
+2025-05-04 19:23:50,701 - INFO - Analysis pipeline completed successfully
+2025-05-04 19:23:50,701 - INFO - All outputs saved with timestamp 20250504_192231
+2025-05-04 19:23:50,713 - INFO - Starting analysis pipeline
+2025-05-04 19:23:50,713 - INFO - Loading dataset from c:\Users\Srimanth L\OneDrive\Desktop\C Programs\WA_Fn-UseC_-HR-Employee-Attrition.csv
+2025-05-04 19:23:50,725 - INFO - Dataset loaded successfully with 1470 rows and 35 columns
+2025-05-04 19:23:50,725 - INFO - Preprocessing data
+2025-05-04 19:23:50,726 - INFO - Encoded categorical column: BusinessTravel
+2025-05-04 19:23:50,727 - INFO - Encoded categorical column: Department
+2025-05-04 19:23:50,727 - INFO - Encoded categorical column: EducationField
+2025-05-04 19:23:50,728 - INFO - Encoded categorical column: Gender
+2025-05-04 19:23:50,728 - INFO - Encoded categorical column: JobRole
+2025-05-04 19:23:50,729 - INFO - Encoded categorical column: MaritalStatus
+2025-05-04 19:23:50,729 - INFO - Encoded categorical column: Over18
+2025-05-04 19:23:50,730 - INFO - Encoded categorical column: OverTime
+2025-05-04 19:23:50,737 - INFO - Imputed missing values using KNNImputer
+2025-05-04 19:23:50,737 - INFO - Performing feature engineering
+2025-05-04 19:23:50,738 - INFO - Created features: Satisfaction_Weighted_Salary, YearsSincePromotion
+2025-05-04 19:23:50,738 - INFO - Performing advanced feature engineering
+2025-05-04 19:23:50,739 - INFO - Using features: ['JobLevel', 'PerformanceRating', 'YearsAtCompany', 'TotalWorkingYears', 'TenurePerf', 'IncomeAgeRatio', 'Education', 'Age']
+2025-05-04 19:23:50,739 - INFO - Simulating future salaries
+2025-05-04 19:23:50,740 - INFO - Calculated future salaries with increments
+2025-05-04 19:23:50,740 - INFO - Added LogFutureSalary transformation
+2025-05-04 19:23:50,740 - INFO - Enhancing models with advanced techniques
+2025-05-04 19:23:50,740 - INFO - Creating interaction features
+2025-05-04 19:23:50,742 - INFO - Starting attrition classification
+2025-05-04 19:23:50,748 - INFO - Split data: 1176 train, 294 test samples
+2025-05-04 19:23:51,028 - INFO - Best hyperparameters: {'C': 10, 'penalty': 'l2', 'solver': 'liblinear'}
+2025-05-04 19:23:51,094 - INFO - Cross-validation F1 scores: [0.55696203 0.46376812 0.45333333 0.52631579 0.53521127] (mean: 0.507)
+2025-05-04 19:23:51,095 - INFO - Classification Metrics:
+2025-05-04 19:23:51,097 - INFO - F1 Score: 0.386
+2025-05-04 19:23:51,099 - INFO - Precision: 0.611
+2025-05-04 19:23:51,101 - INFO - Recall: 0.282
+2025-05-04 19:23:51,102 - INFO - AUC-ROC: 0.768
+2025-05-04 19:23:51,103 - INFO - Top 10 features by importance: ['Performance_Satisfaction', 'LogFutureSalary', 'JobSatisfaction', 'MonthlyIncome', 'OverTime', 'Satisfaction_Experience', 'YearsSinceLastPromotion', 'Department', 'NumCompaniesWorked', 'YearsInCurrentRole']
+2025-05-04 19:23:51,103 - INFO - Starting future salary regression
+2025-05-04 19:23:51,108 - INFO - Split regression data: 1016 train, 254 test samples
+2025-05-04 19:24:21,344 - INFO - Best regression hyperparameters: {'max_depth': 10, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}
+2025-05-04 19:24:26,353 - INFO - Cross-validation R2 scores: [0.99998116 0.99997791 0.9999411  0.99996725 0.99997009] (mean: 1.000)
+2025-05-04 19:24:26,385 - INFO - Regression Metrics:
+2025-05-04 19:24:26,385 - INFO - R^2 Score: 1.000
+2025-05-04 19:24:26,386 - INFO - RMSE: 27.565
+2025-05-04 19:24:26,403 - INFO - Top 5 important features for salary prediction:
+2025-05-04 19:24:26,404 - INFO - 
+                   feature  importance
+1          LogFutureSalary    0.999948
+4  Satisfaction_Experience    0.000011
+7       NumCompaniesWorked    0.000009
+8       YearsInCurrentRole    0.000009
+5  YearsSinceLastPromotion    0.000008
+2025-05-04 19:25:09,227 - INFO - Visualizing feature importance
+2025-05-04 19:25:09,514 - INFO - Feature importance plot saved to feature_importance_plot.png
+2025-05-04 19:25:09,515 - INFO - Performing detailed error analysis
+2025-05-04 19:25:09,515 - INFO - 
+Classification Model Analysis:
+2025-05-04 19:25:09,701 - INFO - 
+Regression Model Analysis:
+2025-05-04 19:25:09,996 - INFO - Results saved to attrition_analysis_results_20250504_192350.csv
+2025-05-04 19:25:10,073 - INFO - Analysis pipeline completed successfully
+2025-05-04 19:25:10,073 - INFO - All outputs saved with timestamp 20250504_192350
+2025-05-04 19:28:29,452 - INFO - Loading dataset from c:\Users\Srimanth L\OneDrive\Desktop\C Programs\WA_Fn-UseC_-HR-Employee-Attrition.csv
+2025-05-04 19:28:29,460 - INFO - Dataset loaded successfully with 1470 rows and 35 columns
+2025-05-04 19:28:29,475 - INFO - Preprocessing data
+2025-05-04 19:28:29,476 - INFO - Encoded categorical column: BusinessTravel
+2025-05-04 19:28:29,476 - INFO - Encoded categorical column: Department
+2025-05-04 19:28:29,477 - INFO - Encoded categorical column: EducationField
+2025-05-04 19:28:29,477 - INFO - Encoded categorical column: Gender
+2025-05-04 19:28:29,477 - INFO - Encoded categorical column: JobRole
+2025-05-04 19:28:29,478 - INFO - Encoded categorical column: MaritalStatus
+2025-05-04 19:28:29,478 - INFO - Encoded categorical column: Over18
+2025-05-04 19:28:29,478 - INFO - Encoded categorical column: OverTime
+2025-05-04 19:28:29,484 - INFO - Imputed missing values using KNNImputer
+2025-05-04 19:28:29,504 - INFO - Performing feature engineering
+2025-05-04 19:28:29,505 - INFO - Created features: Satisfaction_Weighted_Salary, YearsSincePromotion
+2025-05-04 19:28:29,538 - INFO - Simulating future salaries
+2025-05-04 19:28:29,539 - INFO - Calculated future salaries with increments
+2025-05-04 19:28:29,593 - INFO - Starting attrition classification
+2025-05-04 19:28:29,597 - INFO - Split data: 1176 train, 294 test samples
+2025-05-04 19:28:29,956 - INFO - Best hyperparameters: {'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}
+2025-05-04 19:28:30,545 - INFO - Cross-validation F1 scores: [0.51351351 0.4        0.42253521 0.44155844 0.45070423] (mean: 0.446)
+2025-05-04 19:28:30,546 - INFO - Classification Metrics:
+2025-05-04 19:28:30,547 - INFO - F1 Score: 0.500
+2025-05-04 19:28:30,549 - INFO - Precision: 0.714
+2025-05-04 19:28:30,550 - INFO - Recall: 0.385
+2025-05-04 19:28:30,552 - INFO - AUC-ROC: 0.770
+2025-05-04 19:28:30,552 - INFO - Top 10 features by importance: ['OverTime', 'YearsAtCompany', 'YearsInCurrentRole', 'YearsSinceLastPromotion', 'NumCompaniesWorked', 'YearsWithCurrManager', 'MaritalStatus', 'JobLevel', 'JobSatisfaction', 'TotalWorkingYears']
+2025-05-04 19:28:30,553 - INFO - Visualizing feature importance
+2025-05-04 19:28:30,783 - INFO - Feature importance plot saved to feature_importance_plot.png
+2025-05-04 19:28:30,790 - INFO - Starting future salary regression
+2025-05-04 19:29:02,294 - INFO - Regression Metrics - R� Score: 0.993, RMSE: 416.57
+2025-05-04 19:32:03,534 - INFO - Loading dataset from c:\Users\Srimanth L\OneDrive\Desktop\C Programs\WA_Fn-UseC_-HR-Employee-Attrition.csv
+2025-05-04 19:32:03,541 - INFO - Dataset loaded successfully with 1470 rows and 35 columns
+2025-05-04 19:32:03,557 - INFO - Preprocessing data
+2025-05-04 19:32:03,559 - INFO - Encoded categorical column: BusinessTravel
+2025-05-04 19:32:03,559 - INFO - Encoded categorical column: Department
+2025-05-04 19:32:03,560 - INFO - Encoded categorical column: EducationField
+2025-05-04 19:32:03,560 - INFO - Encoded categorical column: Gender
+2025-05-04 19:32:03,561 - INFO - Encoded categorical column: JobRole
+2025-05-04 19:32:03,561 - INFO - Encoded categorical column: MaritalStatus
+2025-05-04 19:32:03,561 - INFO - Encoded categorical column: Over18
+2025-05-04 19:32:03,562 - INFO - Encoded categorical column: OverTime
+2025-05-04 19:32:03,568 - INFO - Imputed missing values using KNNImputer
+2025-05-04 19:32:03,591 - INFO - Performing feature engineering
+2025-05-04 19:32:03,592 - INFO - Created features: Satisfaction_Weighted_Salary, YearsSincePromotion
+2025-05-04 19:32:03,629 - INFO - Simulating future salaries
+2025-05-04 19:32:03,630 - INFO - Calculated future salaries with increments
+2025-05-04 19:32:03,684 - INFO - Starting attrition classification
+2025-05-04 19:32:03,688 - INFO - Split data: 1176 train, 294 test samples
+2025-05-04 19:32:04,023 - INFO - Best hyperparameters: {'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}
+2025-05-04 19:32:04,607 - INFO - Cross-validation F1 scores: [0.51351351 0.4        0.42253521 0.44155844 0.45070423] (mean: 0.446)
+2025-05-04 19:32:04,608 - INFO - Classification Metrics:
+2025-05-04 19:32:04,609 - INFO - F1 Score: 0.500
+2025-05-04 19:32:04,611 - INFO - Precision: 0.714
+2025-05-04 19:32:04,613 - INFO - Recall: 0.385
+2025-05-04 19:32:04,614 - INFO - AUC-ROC: 0.770
+2025-05-04 19:32:04,615 - INFO - Top 10 features by importance: ['OverTime', 'YearsAtCompany', 'YearsInCurrentRole', 'YearsSinceLastPromotion', 'NumCompaniesWorked', 'YearsWithCurrManager', 'MaritalStatus', 'JobLevel', 'JobSatisfaction', 'TotalWorkingYears']
+2025-05-04 19:32:04,615 - INFO - Visualizing feature importance
+2025-05-04 19:32:04,845 - INFO - Feature importance plot saved to feature_importance_plot.png
+2025-05-04 19:32:04,851 - INFO - Starting future salary regression
+2025-05-04 19:32:13,516 - INFO - Regression Metrics - R� Score: 0.998, RMSE: 202.82
+2025-05-04 19:36:07,169 - INFO - Loading dataset from c:\Users\Srimanth L\OneDrive\Desktop\C Programs\WA_Fn-UseC_-HR-Employee-Attrition.csv
+2025-05-04 19:36:07,180 - INFO - Dataset loaded successfully with 1470 rows and 35 columns
+2025-05-04 19:36:07,198 - INFO - Preprocessing data
+2025-05-04 19:36:07,200 - INFO - Encoded categorical column: BusinessTravel
+2025-05-04 19:36:07,200 - INFO - Encoded categorical column: Department
+2025-05-04 19:36:07,201 - INFO - Encoded categorical column: EducationField
+2025-05-04 19:36:07,202 - INFO - Encoded categorical column: Gender
+2025-05-04 19:36:07,202 - INFO - Encoded categorical column: JobRole
+2025-05-04 19:36:07,203 - INFO - Encoded categorical column: MaritalStatus
+2025-05-04 19:36:07,203 - INFO - Encoded categorical column: Over18
+2025-05-04 19:36:07,204 - INFO - Encoded categorical column: OverTime
+2025-05-04 19:36:07,212 - INFO - Imputed missing values using KNNImputer
+2025-05-04 19:36:07,236 - INFO - Performing feature engineering
+2025-05-04 19:36:07,237 - INFO - Created features: Satisfaction_Weighted_Salary, YearsSincePromotion
+2025-05-04 19:36:07,269 - INFO - Simulating future salaries
+2025-05-04 19:36:07,271 - INFO - Calculated future salaries with increments
+2025-05-04 19:36:07,325 - INFO - Starting attrition classification
+2025-05-04 19:36:07,330 - INFO - Split data: 1176 train, 294 test samples
+2025-05-04 19:36:07,675 - INFO - Best hyperparameters: {'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}
+2025-05-04 19:36:08,286 - INFO - Cross-validation F1 scores: [0.51351351 0.4        0.42253521 0.44155844 0.45070423] (mean: 0.446)
+2025-05-04 19:36:08,287 - INFO - Classification Metrics:
+2025-05-04 19:36:08,289 - INFO - F1 Score: 0.500
+2025-05-04 19:36:08,290 - INFO - Precision: 0.714
+2025-05-04 19:36:08,292 - INFO - Recall: 0.385
+2025-05-04 19:36:08,293 - INFO - AUC-ROC: 0.770
+2025-05-04 19:36:08,294 - INFO - Top 10 features by importance: ['OverTime', 'YearsAtCompany', 'YearsInCurrentRole', 'YearsSinceLastPromotion', 'NumCompaniesWorked', 'YearsWithCurrManager', 'MaritalStatus', 'JobLevel', 'JobSatisfaction', 'TotalWorkingYears']
+2025-05-04 19:36:08,295 - INFO - Visualizing feature importance
+2025-05-04 19:36:08,516 - INFO - Feature importance plot saved to feature_importance_plot.png
+2025-05-04 19:36:08,523 - INFO - Starting future salary regression
+2025-05-04 19:36:35,626 - INFO - Regression Metrics - R� Score: 0.998, RMSE: 205.69
+2025-05-04 19:36:35,678 - INFO - Performing detailed error analysis
+2025-05-04 19:36:35,678 - INFO - 
+Classification Model Analysis:
+2025-05-04 19:36:35,873 - INFO - 
+Regression Model Analysis:
+2025-05-04 19:36:36,242 - INFO - Results saved to attrition_analysis_results_20250504_193636.csv
+2025-05-04 19:36:36,393 - INFO - Models, scalers, and feature importance saved with timestamp 20250504_193636
+2025-05-04 19:36:36,430 - INFO - Starting analysis pipeline
+2025-05-04 19:36:36,430 - INFO - Loading dataset from c:\Users\Srimanth L\OneDrive\Desktop\C Programs\WA_Fn-UseC_-HR-Employee-Attrition.csv
+2025-05-04 19:36:36,441 - INFO - Dataset loaded successfully with 1470 rows and 35 columns
+2025-05-04 19:36:36,441 - INFO - Preprocessing data
+2025-05-04 19:36:36,442 - INFO - Encoded categorical column: BusinessTravel
+2025-05-04 19:36:36,443 - INFO - Encoded categorical column: Department
+2025-05-04 19:36:36,443 - INFO - Encoded categorical column: EducationField
+2025-05-04 19:36:36,444 - INFO - Encoded categorical column: Gender
+2025-05-04 19:36:36,444 - INFO - Encoded categorical column: JobRole
+2025-05-04 19:36:36,445 - INFO - Encoded categorical column: MaritalStatus
+2025-05-04 19:36:36,446 - INFO - Encoded categorical column: Over18
+2025-05-04 19:36:36,446 - INFO - Encoded categorical column: OverTime
+2025-05-04 19:36:36,454 - INFO - Imputed missing values using KNNImputer
+2025-05-04 19:36:36,454 - INFO - Performing feature engineering
+2025-05-04 19:36:36,455 - INFO - Created features: Satisfaction_Weighted_Salary, YearsSincePromotion
+2025-05-04 19:36:36,456 - INFO - Performing advanced feature engineering
+2025-05-04 19:36:36,458 - INFO - Using features: ['JobLevel', 'PerformanceRating', 'YearsAtCompany', 'TotalWorkingYears', 'TenurePerf', 'IncomeAgeRatio', 'ExperienceLevel', 'CareerProgress', 'SalaryPerLevel', 'PromotionRate', 'Education', 'Age', 'MonthlyIncome', 'JobSatisfaction', 'WorkLifeBalance', 'EnvironmentSatisfaction']
+2025-05-04 19:36:36,458 - INFO - Simulating future salaries
+2025-05-04 19:36:36,459 - INFO - Calculated future salaries with increments
+2025-05-04 19:36:36,460 - INFO - Added LogFutureSalary transformation
+2025-05-04 19:36:36,460 - INFO - Enhancing models with advanced techniques
+2025-05-04 19:36:36,460 - INFO - Creating interaction features
+2025-05-04 19:36:36,462 - INFO - Starting attrition classification
+2025-05-04 19:36:36,469 - INFO - Split data: 1176 train, 294 test samples
+2025-05-04 19:36:36,732 - INFO - Best hyperparameters: {'C': 1, 'penalty': 'l1', 'solver': 'liblinear'}
+2025-05-04 19:36:36,842 - INFO - Cross-validation F1 scores: [0.48571429 0.45454545 0.46575342 0.48648649 0.56      ] (mean: 0.490)
+2025-05-04 19:36:36,843 - INFO - Classification Metrics:
+2025-05-04 19:36:36,845 - INFO - F1 Score: 0.393
+2025-05-04 19:36:36,847 - INFO - Precision: 0.647
+2025-05-04 19:36:36,849 - INFO - Recall: 0.282
+2025-05-04 19:36:36,851 - INFO - AUC-ROC: 0.776
+2025-05-04 19:36:36,851 - INFO - Top 10 features by importance: ['LogFutureSalary', 'OverTime', 'Performance_Satisfaction', 'Satisfaction_Experience', 'NumCompaniesWorked', 'IncomeAgeRatio', 'Department', 'MaritalStatus', 'YearsInCurrentRole', 'YearsSinceLastPromotion']
+2025-05-04 19:36:36,852 - INFO - Starting future salary regression
+2025-05-04 19:37:08,362 - INFO - Regression Metrics - R� Score: 0.997, RMSE: 295.99
+2025-05-04 19:37:08,385 - INFO - Visualizing feature importance
+2025-05-04 19:37:08,696 - INFO - Feature importance plot saved to feature_importance_plot.png
+2025-05-04 19:37:08,698 - INFO - Performing detailed error analysis
+2025-05-04 19:37:08,699 - INFO - 
+Classification Model Analysis:
+2025-05-04 19:37:08,871 - INFO - 
+Regression Model Analysis:
+2025-05-04 19:41:32,880 - INFO - Loading dataset from c:\Users\Srimanth L\OneDrive\Desktop\C Programs\WA_Fn-UseC_-HR-Employee-Attrition.csv
+2025-05-04 19:41:32,888 - INFO - Dataset loaded successfully with 1470 rows and 35 columns
+2025-05-04 19:41:32,903 - INFO - Preprocessing data
+2025-05-04 19:41:32,904 - INFO - Encoded categorical column: BusinessTravel
+2025-05-04 19:41:32,905 - INFO - Encoded categorical column: Department
+2025-05-04 19:41:32,905 - INFO - Encoded categorical column: EducationField
+2025-05-04 19:41:32,906 - INFO - Encoded categorical column: Gender
+2025-05-04 19:41:32,906 - INFO - Encoded categorical column: JobRole
+2025-05-04 19:41:32,907 - INFO - Encoded categorical column: MaritalStatus
+2025-05-04 19:41:32,907 - INFO - Encoded categorical column: Over18
+2025-05-04 19:41:32,907 - INFO - Encoded categorical column: OverTime
+2025-05-04 19:41:32,913 - INFO - Imputed missing values using KNNImputer
+2025-05-04 19:41:32,933 - INFO - Performing feature engineering
+2025-05-04 19:41:32,934 - INFO - Created features: Satisfaction_Weighted_Salary, YearsSincePromotion
+2025-05-04 19:41:32,964 - INFO - Simulating future salaries
+2025-05-04 19:41:32,965 - INFO - Calculated future salaries with increments
+2025-05-04 19:41:33,018 - INFO - Starting attrition classification
+2025-05-04 19:41:33,023 - INFO - Split data: 1176 train, 294 test samples
+2025-05-04 19:41:33,370 - INFO - Best hyperparameters: {'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}
+2025-05-04 19:41:33,967 - INFO - Cross-validation F1 scores: [0.51351351 0.4        0.42253521 0.44155844 0.45070423] (mean: 0.446)
+2025-05-04 19:41:33,968 - INFO - Classification Metrics:
+2025-05-04 19:41:33,969 - INFO - F1 Score: 0.500
+2025-05-04 19:41:33,971 - INFO - Precision: 0.714
+2025-05-04 19:41:33,972 - INFO - Recall: 0.385
+2025-05-04 19:41:33,974 - INFO - AUC-ROC: 0.770
+2025-05-04 19:41:33,974 - INFO - Top 10 features by importance: ['OverTime', 'YearsAtCompany', 'YearsInCurrentRole', 'YearsSinceLastPromotion', 'NumCompaniesWorked', 'YearsWithCurrManager', 'MaritalStatus', 'JobLevel', 'JobSatisfaction', 'TotalWorkingYears']
+2025-05-04 19:41:33,975 - INFO - Visualizing feature importance
+2025-05-04 19:41:34,200 - INFO - Feature importance plot saved to feature_importance_plot.png
+2025-05-04 19:41:34,207 - INFO - Starting future salary regression
+2025-05-04 19:42:25,929 - INFO - Regression Metrics (log scale) - R� Score: 1.000, RMSE: 0.01
+2025-05-04 19:42:25,949 - INFO - Performing detailed error analysis
+2025-05-04 19:42:25,949 - INFO - 
+Classification Model Analysis:
+2025-05-04 19:42:26,119 - INFO - 
+Regression Model Analysis:
+2025-05-04 19:42:26,354 - INFO - Results saved to attrition_analysis_results_20250504_194226.csv
+2025-05-04 19:42:26,371 - INFO - Models, scalers, and feature importance saved with timestamp 20250504_194226
+2025-05-04 19:42:26,399 - INFO - Starting analysis pipeline
+2025-05-04 19:42:26,399 - INFO - Loading dataset from c:\Users\Srimanth L\OneDrive\Desktop\C Programs\WA_Fn-UseC_-HR-Employee-Attrition.csv
+2025-05-04 19:42:26,407 - INFO - Dataset loaded successfully with 1470 rows and 35 columns
+2025-05-04 19:42:26,407 - INFO - Preprocessing data
+2025-05-04 19:42:26,408 - INFO - Encoded categorical column: BusinessTravel
+2025-05-04 19:42:26,408 - INFO - Encoded categorical column: Department
+2025-05-04 19:42:26,409 - INFO - Encoded categorical column: EducationField
+2025-05-04 19:42:26,409 - INFO - Encoded categorical column: Gender
+2025-05-04 19:42:26,409 - INFO - Encoded categorical column: JobRole
+2025-05-04 19:42:26,410 - INFO - Encoded categorical column: MaritalStatus
+2025-05-04 19:42:26,410 - INFO - Encoded categorical column: Over18
+2025-05-04 19:42:26,410 - INFO - Encoded categorical column: OverTime
+2025-05-04 19:42:26,416 - INFO - Imputed missing values using KNNImputer
+2025-05-04 19:42:26,416 - INFO - Performing feature engineering
+2025-05-04 19:42:26,417 - INFO - Created features: Satisfaction_Weighted_Salary, YearsSincePromotion
+2025-05-04 19:42:26,417 - INFO - Performing advanced feature engineering
+2025-05-04 19:42:26,419 - INFO - Using features: ['JobLevel', 'PerformanceRating', 'YearsAtCompany', 'TotalWorkingYears', 'TenurePerf', 'IncomeAgeRatio', 'ExperienceLevel', 'CareerProgress', 'SalaryPerLevel', 'PromotionRate', 'Education', 'Age', 'MonthlyIncome', 'JobSatisfaction', 'WorkLifeBalance', 'EnvironmentSatisfaction']
+2025-05-04 19:42:26,419 - INFO - Simulating future salaries
+2025-05-04 19:42:26,420 - INFO - Calculated future salaries with increments
+2025-05-04 19:42:26,421 - INFO - Added LogFutureSalary transformation
+2025-05-04 19:42:26,421 - INFO - Enhancing models with advanced techniques
+2025-05-04 19:42:26,421 - INFO - Creating interaction features
+2025-05-04 19:42:26,422 - INFO - Starting attrition classification
+2025-05-04 19:42:26,428 - INFO - Split data: 1176 train, 294 test samples
+2025-05-04 19:42:26,654 - INFO - Best hyperparameters: {'C': 1, 'penalty': 'l1', 'solver': 'liblinear'}
+2025-05-04 19:42:26,749 - INFO - Cross-validation F1 scores: [0.48571429 0.45454545 0.46575342 0.48648649 0.56      ] (mean: 0.490)
+2025-05-04 19:42:26,749 - INFO - Classification Metrics:
+2025-05-04 19:42:26,751 - INFO - F1 Score: 0.393
+2025-05-04 19:42:26,753 - INFO - Precision: 0.647
+2025-05-04 19:42:26,755 - INFO - Recall: 0.282
+2025-05-04 19:42:26,756 - INFO - AUC-ROC: 0.776
+2025-05-04 19:42:26,757 - INFO - Top 10 features by importance: ['LogFutureSalary', 'OverTime', 'Performance_Satisfaction', 'Satisfaction_Experience', 'NumCompaniesWorked', 'IncomeAgeRatio', 'Department', 'MaritalStatus', 'YearsInCurrentRole', 'YearsSinceLastPromotion']
+2025-05-04 19:42:26,757 - INFO - Starting future salary regression
+2025-05-04 19:43:25,155 - INFO - Regression Metrics (log scale) - R� Score: 1.000, RMSE: 0.01
+2025-05-04 19:43:25,156 - INFO - Visualizing feature importance
+2025-05-04 19:43:25,712 - INFO - Feature importance plot saved to feature_importance_plot.png
+2025-05-04 19:43:25,715 - INFO - Performing detailed error analysis
+2025-05-04 19:43:25,715 - INFO - 
+Classification Model Analysis:
+2025-05-04 19:43:25,874 - INFO - 
+Regression Model Analysis:
+2025-05-04 19:49:03,116 - INFO - Loading dataset from c:\Users\Srimanth L\OneDrive\Desktop\C Programs\WA_Fn-UseC_-HR-Employee-Attrition.csv
+2025-05-04 19:49:03,123 - INFO - Dataset loaded successfully with 1470 rows and 35 columns
+2025-05-04 19:49:03,138 - INFO - Preprocessing data
+2025-05-04 19:49:03,139 - INFO - Encoded categorical column: BusinessTravel
+2025-05-04 19:49:03,140 - INFO - Encoded categorical column: Department
+2025-05-04 19:49:03,140 - INFO - Encoded categorical column: EducationField
+2025-05-04 19:49:03,141 - INFO - Encoded categorical column: Gender
+2025-05-04 19:49:03,141 - INFO - Encoded categorical column: JobRole
+2025-05-04 19:49:03,141 - INFO - Encoded categorical column: MaritalStatus
+2025-05-04 19:49:03,142 - INFO - Encoded categorical column: Over18
+2025-05-04 19:49:03,142 - INFO - Encoded categorical column: OverTime
+2025-05-04 19:49:03,148 - INFO - Imputed missing values using KNNImputer
+2025-05-04 19:49:03,169 - INFO - Performing feature engineering
+2025-05-04 19:49:03,170 - INFO - Created features: Satisfaction_Weighted_Salary, YearsSincePromotion
+2025-05-04 19:49:03,200 - INFO - Simulating future salaries
+2025-05-04 19:49:03,202 - INFO - Calculated future salaries with increments
+2025-05-04 19:49:03,255 - INFO - Starting attrition classification
+2025-05-04 19:49:03,259 - INFO - Split data: 1176 train, 294 test samples
+2025-05-04 19:49:07,045 - INFO - Best hyperparameters: {'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}
+2025-05-04 19:49:07,640 - INFO - Cross-validation F1 scores: [0.51351351 0.4        0.42253521 0.44155844 0.45070423] (mean: 0.446)
+2025-05-04 19:49:07,641 - INFO - Classification Metrics:
+2025-05-04 19:49:07,643 - INFO - F1 Score: 0.500
+2025-05-04 19:49:07,644 - INFO - Precision: 0.714
+2025-05-04 19:49:07,645 - INFO - Recall: 0.385
+2025-05-04 19:49:07,647 - INFO - AUC-ROC: 0.770
+2025-05-04 19:49:07,647 - INFO - Top 10 features by importance: ['OverTime', 'YearsAtCompany', 'YearsInCurrentRole', 'YearsSinceLastPromotion', 'NumCompaniesWorked', 'YearsWithCurrManager', 'MaritalStatus', 'JobLevel', 'JobSatisfaction', 'TotalWorkingYears']
+2025-05-04 19:49:07,648 - INFO - Visualizing feature importance
+2025-05-04 19:49:07,872 - INFO - Feature importance plot saved to feature_importance_plot.png
+2025-05-04 19:49:07,879 - INFO - Starting future salary regression
+2025-05-04 19:50:20,214 - INFO - Loading dataset from c:\Users\Srimanth L\OneDrive\Desktop\C Programs\WA_Fn-UseC_-HR-Employee-Attrition.csv
+2025-05-04 19:50:20,221 - INFO - Dataset loaded successfully with 1470 rows and 35 columns
+2025-05-04 19:50:20,236 - INFO - Preprocessing data
+2025-05-04 19:50:20,237 - INFO - Encoded categorical column: BusinessTravel
+2025-05-04 19:50:20,237 - INFO - Encoded categorical column: Department
+2025-05-04 19:50:20,238 - INFO - Encoded categorical column: EducationField
+2025-05-04 19:50:20,239 - INFO - Encoded categorical column: Gender
+2025-05-04 19:50:20,239 - INFO - Encoded categorical column: JobRole
+2025-05-04 19:50:20,239 - INFO - Encoded categorical column: MaritalStatus
+2025-05-04 19:50:20,240 - INFO - Encoded categorical column: Over18
+2025-05-04 19:50:20,240 - INFO - Encoded categorical column: OverTime
+2025-05-04 19:50:20,245 - INFO - Imputed missing values using KNNImputer
+2025-05-04 19:50:20,265 - INFO - Performing feature engineering
+2025-05-04 19:50:20,266 - INFO - Created features: Satisfaction_Weighted_Salary, YearsSincePromotion
+2025-05-04 19:50:20,298 - INFO - Simulating future salaries
+2025-05-04 19:50:20,299 - INFO - Calculated future salaries with increments
+2025-05-04 19:50:20,353 - INFO - Starting attrition classification
+2025-05-04 19:50:20,358 - INFO - Split data: 1176 train, 294 test samples
+2025-05-04 19:50:20,719 - INFO - Best hyperparameters: {'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}
+2025-05-04 19:50:21,330 - INFO - Cross-validation F1 scores: [0.51351351 0.4        0.42253521 0.44155844 0.45070423] (mean: 0.446)
+2025-05-04 19:50:21,331 - INFO - Classification Metrics:
+2025-05-04 19:50:21,333 - INFO - F1 Score: 0.500
+2025-05-04 19:50:21,334 - INFO - Precision: 0.714
+2025-05-04 19:50:21,336 - INFO - Recall: 0.385
+2025-05-04 19:50:21,337 - INFO - AUC-ROC: 0.770
+2025-05-04 19:50:21,338 - INFO - Top 10 features by importance: ['OverTime', 'YearsAtCompany', 'YearsInCurrentRole', 'YearsSinceLastPromotion', 'NumCompaniesWorked', 'YearsWithCurrManager', 'MaritalStatus', 'JobLevel', 'JobSatisfaction', 'TotalWorkingYears']
+2025-05-04 19:50:21,339 - INFO - Visualizing feature importance
+2025-05-04 19:50:21,563 - INFO - Feature importance plot saved to feature_importance_plot.png
+2025-05-04 19:50:21,569 - INFO - Starting future salary regression
+2025-05-04 22:08:08,402 - INFO - Loading dataset from c:\Users\Srimanth L\OneDrive\Desktop\C Programs\WA_Fn-UseC_-HR-Employee-Attrition.csv
+2025-05-04 22:08:08,438 - INFO - Dataset loaded successfully with 1470 rows and 35 columns
+2025-05-04 22:08:08,466 - INFO - Preprocessing data
+2025-05-04 22:08:08,471 - INFO - Encoded categorical column: BusinessTravel
+2025-05-04 22:08:08,472 - INFO - Encoded categorical column: Department
+2025-05-04 22:08:08,472 - INFO - Encoded categorical column: EducationField
+2025-05-04 22:08:08,473 - INFO - Encoded categorical column: Gender
+2025-05-04 22:08:08,473 - INFO - Encoded categorical column: JobRole
+2025-05-04 22:08:08,474 - INFO - Encoded categorical column: MaritalStatus
+2025-05-04 22:08:08,474 - INFO - Encoded categorical column: Over18
+2025-05-04 22:08:08,475 - INFO - Encoded categorical column: OverTime
+2025-05-04 22:08:08,486 - INFO - Imputed missing values using KNNImputer
+2025-05-04 22:08:08,506 - INFO - Performing feature engineering
+2025-05-04 22:08:08,509 - INFO - Created features: Satisfaction_Weighted_Salary, YearsSincePromotion
+2025-05-04 22:08:08,543 - INFO - Simulating future salaries
+2025-05-04 22:08:08,545 - INFO - Calculated future salaries with increments
+2025-05-04 22:08:08,599 - INFO - Starting attrition classification
+2025-05-04 22:08:08,607 - INFO - Split data: 1176 train, 294 test samples
+2025-05-04 22:08:13,331 - INFO - Best hyperparameters: {'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}
+2025-05-04 22:08:13,917 - INFO - Cross-validation F1 scores: [0.51351351 0.4        0.42253521 0.44155844 0.45070423] (mean: 0.446)
+2025-05-04 22:08:13,918 - INFO - Classification Metrics:
+2025-05-04 22:08:13,920 - INFO - F1 Score: 0.500
+2025-05-04 22:08:13,921 - INFO - Precision: 0.714
+2025-05-04 22:08:13,923 - INFO - Recall: 0.385
+2025-05-04 22:08:13,926 - INFO - AUC-ROC: 0.770
+2025-05-04 22:08:13,927 - INFO - Top 10 features by importance: ['OverTime', 'YearsAtCompany', 'YearsInCurrentRole', 'YearsSinceLastPromotion', 'NumCompaniesWorked', 'YearsWithCurrManager', 'MaritalStatus', 'JobLevel', 'JobSatisfaction', 'TotalWorkingYears']
+2025-05-04 22:08:13,928 - INFO - Visualizing feature importance
+2025-05-04 22:08:14,170 - INFO - Feature importance plot saved to feature_importance_plot.png
+2025-05-04 22:08:14,177 - INFO - Starting future salary regression
+2025-05-04 22:08:16,342 - INFO - Regression Metrics - R� Score: 1.000, RMSE: 0.01
+2025-05-04 22:08:16,378 - INFO - Performing detailed error analysis
+2025-05-04 22:08:16,378 - INFO - 
+Classification Model Analysis:
+2025-05-04 22:08:16,575 - INFO - 
+Regression Model Analysis:
+2025-05-04 22:08:16,828 - INFO - Results saved to attrition_analysis_results_20250504_220816.csv
+2025-05-04 22:08:16,847 - INFO - Models, scalers, and feature importance saved with timestamp 20250504_220816
+2025-05-04 22:08:16,910 - INFO - Starting analysis pipeline
+2025-05-04 22:08:16,910 - INFO - Loading dataset from c:\Users\Srimanth L\OneDrive\Desktop\C Programs\WA_Fn-UseC_-HR-Employee-Attrition.csv
+2025-05-04 22:08:16,923 - INFO - Dataset loaded successfully with 1470 rows and 35 columns
+2025-05-04 22:08:16,923 - INFO - Preprocessing data
+2025-05-04 22:08:16,924 - INFO - Encoded categorical column: BusinessTravel
+2025-05-04 22:08:16,925 - INFO - Encoded categorical column: Department
+2025-05-04 22:08:16,926 - INFO - Encoded categorical column: EducationField
+2025-05-04 22:08:16,926 - INFO - Encoded categorical column: Gender
+2025-05-04 22:08:16,927 - INFO - Encoded categorical column: JobRole
+2025-05-04 22:08:16,928 - INFO - Encoded categorical column: MaritalStatus
+2025-05-04 22:08:16,928 - INFO - Encoded categorical column: Over18
+2025-05-04 22:08:16,929 - INFO - Encoded categorical column: OverTime
+2025-05-04 22:08:16,937 - INFO - Imputed missing values using KNNImputer
+2025-05-04 22:08:16,937 - INFO - Performing feature engineering
+2025-05-04 22:08:16,938 - INFO - Created features: Satisfaction_Weighted_Salary, YearsSincePromotion
+2025-05-04 22:08:16,938 - INFO - Performing advanced feature engineering
+2025-05-04 22:08:16,941 - INFO - Using features: ['JobLevel', 'PerformanceRating', 'YearsAtCompany', 'TotalWorkingYears', 'TenurePerf', 'IncomeAgeRatio', 'ExperienceLevel', 'CareerProgress', 'SalaryPerLevel', 'PromotionRate', 'Education', 'Age', 'MonthlyIncome', 'JobSatisfaction', 'WorkLifeBalance', 'EnvironmentSatisfaction']
+2025-05-04 22:08:16,941 - INFO - Simulating future salaries
+2025-05-04 22:08:16,941 - INFO - Calculated future salaries with increments
+2025-05-04 22:08:16,942 - INFO - Added LogFutureSalary transformation
+2025-05-04 22:08:16,942 - INFO - Enhancing models with advanced techniques
+2025-05-04 22:08:16,942 - INFO - Creating interaction features
+2025-05-04 22:08:16,944 - INFO - Starting attrition classification
+2025-05-04 22:08:16,949 - INFO - Split data: 1176 train, 294 test samples
+2025-05-04 22:08:17,182 - INFO - Best hyperparameters: {'C': 1, 'penalty': 'l1', 'solver': 'liblinear'}
+2025-05-04 22:08:17,269 - INFO - Cross-validation F1 scores: [0.48571429 0.45454545 0.46575342 0.48648649 0.56      ] (mean: 0.490)
+2025-05-04 22:08:17,270 - INFO - Classification Metrics:
+2025-05-04 22:08:17,272 - INFO - F1 Score: 0.393
+2025-05-04 22:08:17,273 - INFO - Precision: 0.647
+2025-05-04 22:08:17,275 - INFO - Recall: 0.282
+2025-05-04 22:08:17,276 - INFO - AUC-ROC: 0.776
+2025-05-04 22:08:17,277 - INFO - Top 10 features by importance: ['LogFutureSalary', 'OverTime', 'Performance_Satisfaction', 'Satisfaction_Experience', 'NumCompaniesWorked', 'IncomeAgeRatio', 'Department', 'MaritalStatus', 'YearsInCurrentRole', 'YearsSinceLastPromotion']
+2025-05-04 22:08:17,277 - INFO - Starting future salary regression
+2025-05-04 22:08:18,472 - INFO - Regression Metrics - R� Score: 1.000, RMSE: 0.01
+2025-05-04 22:08:18,473 - INFO - Visualizing feature importance
+2025-05-04 22:08:18,787 - INFO - Feature importance plot saved to feature_importance_plot.png
+2025-05-04 22:08:18,789 - INFO - Performing detailed error analysis
+2025-05-04 22:08:18,789 - INFO - 
+Classification Model Analysis:
+2025-05-04 22:08:18,943 - INFO - 
+Regression Model Analysis:
+2025-05-04 22:08:19,178 - INFO - Results saved to attrition_analysis_results_20250504_220816.csv
+2025-05-04 22:08:19,195 - INFO - Analysis pipeline completed successfully
+2025-05-04 22:12:45,073 - INFO - Loading dataset from c:\Users\Srimanth L\OneDrive\Desktop\C Programs\WA_Fn-UseC_-HR-Employee-Attrition.csv
+2025-05-04 22:12:45,081 - INFO - Dataset loaded successfully with 1470 rows and 35 columns
+2025-05-04 22:12:45,095 - INFO - Preprocessing data
+2025-05-04 22:12:45,096 - INFO - Encoded categorical column: BusinessTravel
+2025-05-04 22:12:45,097 - INFO - Encoded categorical column: Department
+2025-05-04 22:12:45,097 - INFO - Encoded categorical column: EducationField
+2025-05-04 22:12:45,098 - INFO - Encoded categorical column: Gender
+2025-05-04 22:12:45,098 - INFO - Encoded categorical column: JobRole
+2025-05-04 22:12:45,099 - INFO - Encoded categorical column: MaritalStatus
+2025-05-04 22:12:45,099 - INFO - Encoded categorical column: Over18
+2025-05-04 22:12:45,099 - INFO - Encoded categorical column: OverTime
+2025-05-04 22:12:45,104 - INFO - Imputed missing values using KNNImputer
+2025-05-04 22:12:45,124 - INFO - Performing feature engineering
+2025-05-04 22:12:45,125 - INFO - Created features: Satisfaction_Weighted_Salary, YearsSincePromotion
+2025-05-04 22:12:45,155 - INFO - Simulating future salaries
+2025-05-04 22:12:45,156 - INFO - Calculated future salaries with increments
+2025-05-04 22:12:45,208 - INFO - Starting attrition classification
+2025-05-04 22:12:45,212 - INFO - Split data: 1176 train, 294 test samples
+2025-05-04 22:12:45,539 - INFO - Best hyperparameters: {'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}
+2025-05-04 22:12:46,108 - INFO - Cross-validation F1 scores: [0.51351351 0.4        0.42253521 0.44155844 0.45070423] (mean: 0.446)
+2025-05-04 22:12:46,109 - INFO - Classification Metrics:
+2025-05-04 22:12:46,110 - INFO - F1 Score: 0.500
+2025-05-04 22:12:46,112 - INFO - Precision: 0.714
+2025-05-04 22:12:46,113 - INFO - Recall: 0.385
+2025-05-04 22:12:46,114 - INFO - AUC-ROC: 0.770
+2025-05-04 22:12:46,115 - INFO - Top 10 features by importance: ['OverTime', 'YearsAtCompany', 'YearsInCurrentRole', 'YearsSinceLastPromotion', 'NumCompaniesWorked', 'YearsWithCurrManager', 'MaritalStatus', 'JobLevel', 'JobSatisfaction', 'TotalWorkingYears']
+2025-05-04 22:12:46,116 - INFO - Visualizing feature importance
+2025-05-04 22:12:46,356 - INFO - Feature importance plot saved to feature_importance_plot.png
+2025-05-04 22:12:46,362 - INFO - Starting future salary regression
+2025-05-04 22:12:47,436 - INFO - Regression Metrics - R� Score: 1.000, RMSE: 0.01
+2025-05-04 22:12:47,458 - INFO - Performing detailed error analysis
+2025-05-04 22:12:47,458 - INFO - 
+Classification Model Analysis:
+2025-05-04 22:12:47,636 - INFO - 
+Regression Model Analysis:
+2025-05-04 22:12:47,876 - INFO - Results saved to attrition_analysis_results_20250504_221247.csv
+2025-05-04 22:12:47,893 - INFO - Models, scalers, and feature importance saved with timestamp 20250504_221247
+2025-05-04 22:12:47,929 - INFO - Starting analysis pipeline
+2025-05-04 22:12:47,929 - INFO - Loading dataset from c:\Users\Srimanth L\OneDrive\Desktop\C Programs\WA_Fn-UseC_-HR-Employee-Attrition.csv
+2025-05-04 22:12:47,942 - INFO - Dataset loaded successfully with 1470 rows and 35 columns
+2025-05-04 22:12:47,942 - INFO - Preprocessing data
+2025-05-04 22:12:47,943 - INFO - Encoded categorical column: BusinessTravel
+2025-05-04 22:12:47,944 - INFO - Encoded categorical column: Department
+2025-05-04 22:12:47,945 - INFO - Encoded categorical column: EducationField
+2025-05-04 22:12:47,945 - INFO - Encoded categorical column: Gender
+2025-05-04 22:12:47,946 - INFO - Encoded categorical column: JobRole
+2025-05-04 22:12:47,947 - INFO - Encoded categorical column: MaritalStatus
+2025-05-04 22:12:47,948 - INFO - Encoded categorical column: Over18
+2025-05-04 22:12:47,948 - INFO - Encoded categorical column: OverTime
+2025-05-04 22:12:47,958 - INFO - Imputed missing values using KNNImputer
+2025-05-04 22:12:47,958 - INFO - Performing feature engineering
+2025-05-04 22:12:47,959 - INFO - Created features: Satisfaction_Weighted_Salary, YearsSincePromotion
+2025-05-04 22:12:47,959 - INFO - Performing advanced feature engineering
+2025-05-04 22:12:47,962 - INFO - Using features: ['JobLevel', 'PerformanceRating', 'YearsAtCompany', 'TotalWorkingYears', 'TenurePerf', 'IncomeAgeRatio', 'ExperienceLevel', 'CareerProgress', 'SalaryPerLevel', 'PromotionRate', 'Education', 'Age', 'MonthlyIncome', 'JobSatisfaction', 'WorkLifeBalance', 'EnvironmentSatisfaction']
+2025-05-04 22:12:47,962 - INFO - Simulating future salaries
+2025-05-04 22:12:47,963 - INFO - Calculated future salaries with increments
+2025-05-04 22:12:47,964 - INFO - Added LogFutureSalary transformation
+2025-05-04 22:12:47,964 - INFO - Enhancing models with advanced techniques
+2025-05-04 22:12:47,964 - INFO - Creating interaction features
+2025-05-04 22:12:47,966 - INFO - Starting attrition classification
+2025-05-04 22:12:47,982 - INFO - Split data: 1176 train, 294 test samples
+2025-05-04 22:12:48,181 - INFO - Best hyperparameters: {'C': 1, 'penalty': 'l1', 'solver': 'liblinear'}
+2025-05-04 22:12:48,264 - INFO - Cross-validation F1 scores: [0.48571429 0.45454545 0.46575342 0.48648649 0.56      ] (mean: 0.490)
+2025-05-04 22:12:48,264 - INFO - Classification Metrics:
+2025-05-04 22:12:48,266 - INFO - F1 Score: 0.393
+2025-05-04 22:12:48,267 - INFO - Precision: 0.647
+2025-05-04 22:12:48,269 - INFO - Recall: 0.282
+2025-05-04 22:12:48,270 - INFO - AUC-ROC: 0.776
+2025-05-04 22:12:48,270 - INFO - Top 10 features by importance: ['LogFutureSalary', 'OverTime', 'Performance_Satisfaction', 'Satisfaction_Experience', 'NumCompaniesWorked', 'IncomeAgeRatio', 'Department', 'MaritalStatus', 'YearsInCurrentRole', 'YearsSinceLastPromotion']
+2025-05-04 22:12:48,271 - INFO - Starting future salary regression
+2025-05-04 22:12:49,328 - INFO - Regression Metrics - R� Score: 1.000, RMSE: 0.01
+2025-05-04 22:12:49,329 - INFO - Visualizing feature importance
+2025-05-04 22:12:50,070 - INFO - Feature importance plot saved to feature_importance_plot.png
+2025-05-04 22:12:50,072 - INFO - Performing detailed error analysis
+2025-05-04 22:12:50,072 - INFO - 
+Classification Model Analysis:
+2025-05-04 22:12:50,223 - INFO - 
+Regression Model Analysis:
+2025-05-04 22:12:50,463 - INFO - Results saved to attrition_analysis_results_20250504_221247.csv
+2025-05-04 22:12:50,479 - INFO - Analysis pipeline completed successfully
